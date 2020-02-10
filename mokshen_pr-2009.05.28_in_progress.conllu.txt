@@ -1,0 +1,2269 @@
+ЦЕБЯРЬГОФТОМС ЛОМАТТНЕНЬ ЭРЯФСНОН
+
+1	ЦЕБЯРЬГОФТОМС	VERB	Caus=Yes|Transitivity=Intr|VerbForm=Inf	улучшиться
+2	ЛОМАТТНЕНЬ	NOUN	Case=Gen|Definite=Def|Number=Plur	человек
+3	ЭРЯФСНОН	VERB	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|PtcpType=Res|Transitivity=Intr|VerbForm=Part	жить
+4	\n	PUNCT	_	_
+------------
+Саранскяйса етафтф «Единая Россия» политическяй партиять Мордовскяй региональнай отделениянц XIV-це аф очередной конференцияц.
+1	Саранскяйса	PROPN	Case=Ine|Number=Sing|PropnType=TopN	Саранск
+2	етафтф	VERB	Caus=Yes|PtcpType=Res|Transitivity=Intr|VerbForm=Part	пройти
+3	«	PUNCT	_	_
+4	Единая	PROPN	Case=Nom|Number=Sing	Единая (Россия)
+5	Россия	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Россия
+6	»	PUNCT	_	_
+7	политическяй	ADJ	Rus=Yes	политический
+8	партиять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	партия
+9	Мордовскяй	ADJ	Rus=Yes	мордовский
+10	региональнай	ADJ	Rus=Yes	региональный
+11	отделениянц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	отделение
+12	XIV	X	_	_
+13	-	PUNCT	_	_
+14	це	PART		на
+15	аф	AUX	Polarity=Neg	не
+16	очередной	ADJ	Rus=Yes	_
+17	конференцияц	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	конференция
+18	.	PUNCT	_	_
+------------
+Конференцияса примасть участия Мордовия Республикань Госсобраниянь и Саранск ошень округонь депутаттне, Мордовия Республикань правительствань, министерствань и ведомствань руководительхне.
+
+1	Конференцияса	NOUN	Case=Ine|Number=Sing|Rus=Yes	конференция
+2	примасть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Prt1|Transitivity=Tr	принять
+3	участия	NOUN	Case=Nom|Number=Sing|Rus=Yes	участие
+4	Мордовия	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Мордовия
+5	Республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+6	Госсобраниянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	госсобрание
+7	и	CONJ	Rus=Yes	и
+8	Саранск	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Саранск
+9	ошень	ADJ		городской
+10	округонь	NOUN	Case=Gen|Number=Sing|Rus=Yes	округ
+11	депутаттне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	депутат
+12	,	PUNCT	_	_
+13	Мордовия	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Мордовия
+14	Республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+15	правительствань	NOUN	Case=Gen|Number=Sing|Rus=Yes	правительство
+16	,	PUNCT	_	_
+17	министерствань	NOUN	Case=Gen|Number=Sing|Rus=Yes	министерство
+18	и	CONJ	Rus=Yes	и
+19	ведомствань	NOUN	Case=Gen|Number=Sing|Rus=Yes	ведомство
+20	руководительхне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	руководитель
+21	.	PUNCT	_	_
+22	\n	PUNCT	_	_
+------------
+Пуромфне кулхцондозь партиянь Мордовскяй региональнай отделениять Политсоветонц секретаренц В.А.Кечкинонь отчетнай докладонц.
+1	Пуромфне	VERB	Case=Nom|Definite=Def|Number=Plur|PtcpType=Res|Transitivity=Intr|VerbForm=Part	собраться
+2	кулхцондозь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	послушать
+3	партиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	партия
+4	Мордовскяй	ADJ	Rus=Yes	мордовский
+5	региональнай	ADJ	Rus=Yes	региональный
+6	отделениять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	отделение
+7	Политсоветонц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	политсовет
+8	секретаренц	NOUN	Animacy=Hum|Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	секретарь
+9	В.А.Кечкинонь	PROPN	Case=Gen|Number=Sing|PropnType=FamN	_
+10	отчетнай	ADJ	Rus=Yes	отчётный
+11	докладонц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	доклад
+12	.	PUNCT	_	_
+------------
+Сон азозе, што тяни партиянь республиканскяй организацияса лувондови 26 тежянь ломань и 36 тежянь сонь ширень кирдидонза.
+1	Сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+2	азозе	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	сказать
+3	,	PUNCT	_	_
+4	што	CONJ	Rus=Yes	что
+5	тяни	ADV		сейчас
+6	партиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	партия
+7	республиканскяй	ADJ	Rus=Yes	республиканский
+8	организацияса	NOUN	Case=Ine|Number=Sing|Rus=Yes	организация
+9	лувондови	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	читать
+10	26	NUM		_
+11	тежянь	NUM		тысяча
+12	ломань	NOUN	Case=Nom|Number=Sing	человек
+13	и	CONJ	Rus=Yes	и
+14	36	NUM		_
+15	тежянь	NUM		тысяча
+16	сонь	PRON	Case=Gen|Number=Sing|Person=3	он, она, оно
+17	ширень	NOUN	Case=Gen|Number=Sing	сторона
+18	кирдидонза	X	_	_
+19	.	PUNCT	_	_
+------------
+Нят тевонь кельги ломатть, конат эсь трудснон и эряфса активнайшиснон вельде кемокснесазь республикать экономиканц.
+
+1	Нят	PRON	Case=Nom|Number=Plur	эти
+2	тевонь	NOUN	Case=Gen|Number=Sing	дело
+3	кельги	VERB	Transitivity=Tr|VerbForm=Part	любить
+4	ломатть	NOUN	Case=Nom|Number=Plur	человек
+5	,	PUNCT	_	_
+6	конат	PRON	Case=Nom|Number=Plur	который; какой
+7	эсь	PRON	Case=Nom|PronType=Refl	свой
+8	трудснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	труд
+9	и	CONJ	Rus=Yes	и
+10	эряфса	NOUN	Case=Ine|Number=Sing	жизнь
+11	активнайшиснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	активность
+12	вельде	ADP	AdpType=Post	посредством, путём
+13	кемокснесазь	X	_	_
+14	республикать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	республика
+15	экономиканц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	экономика
+16	.	PUNCT	_	_
+17	\n	PUNCT	_	_
+------------
+Ломаттне верондайхть партияти, сяс кочкаматнень пингста республикань избирательхнень инь оцю пялькссна макссесазь вайгяльснон «Единая Россия» партиять кандидатонзон инкса.
+1	Ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+2	верондайхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr	верить, надеяться
+3	партияти	NOUN	Case=Dat|Definite=Def|Number=Sing|Rus=Yes	партия
+4	,	PUNCT	_	_
+5	сяс	ADV	AdvType=Pron	поэтому
+6	кочкаматнень	VERB	Case=Gen|Definite=Def|Number=Plur|Transitivity=Tr|VerbForm=Vnoun	собрать, выбрать
+7	пингста	NOUN	Case=Ela|Number=Sing	время
+8	республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+9	избирательхнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	избиратель
+10	инь	PART		самый
+11	оцю	ADJ		бошьшой; главный; старший
+12	пялькссна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	половинка
+13	макссесазь	VERB	Mult=Yes|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	дать
+14	вайгяльснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	голос
+15	«	PUNCT	_	_
+16	Единая	PROPN	Case=Nom|Number=Sing	Единая (Россия)
+17	Россия	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Россия
+18	»	PUNCT	_	_
+19	партиять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	партия
+20	кандидатонзон	NOUN	Animacy=Hum|Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3|Rus=Yes	кандидат
+21	инкса	ADP	AdpType=Post	за
+22	.	PUNCT	_	_
+------------
+Федеральнай центраське кирдьсы республикать ширенц.
+1	Федеральнай	ADJ	Rus=Yes	федеральный
+2	центраське	NOUN	Case=Nom|Clitic=Add|Definite=Def|Number=Sing|Rus=Yes	центр
+3	кирдьсы	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	держать
+4	республикать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	республика
+5	ширенц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	сторона
+6	.	PUNCT	_	_
+------------
+Максфоль лезкс мордовскяй национальнай театрать строямста, финно-угорскяй культурань фестивальть етафтомста и стак тов.
+
+1	Максфоль	VERB	Number[subj]=Sing|Person[subj]=3|PtcpType=Res|Tense=Prt1|Transitivity=Tr|VerbForm=Part	дать
+2	лезкс	NOUN	Case=Nom|Number=Sing	помощь
+3	мордовскяй	ADJ	Rus=Yes	мордовский
+4	национальнай	ADJ	Rus=Yes	национальный
+5	театрать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	театр
+6	строямста	VERB	Case=Ela|Rus=Yes|Transitivity=Tr|VerbForm=Vnoun	строить
+7	,	PUNCT	_	_
+8	финно-угорскяй	ADJ	Rus=Yes	финно-угорский
+9	культурань	NOUN	Case=Gen|Number=Sing|Rus=Yes	культура
+10	фестивальть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	фестиваль
+11	етафтомста	VERB	Case=Ela|Caus=Yes|Transitivity=Intr|VerbForm=Vnoun	пройти
+12	и	CONJ	Rus=Yes	и
+13	стак	ADV		просто так; так же; даром
+14	тов	ADV	AdvType=Pron	туда
+15	.	PUNCT	_	_
+16	\n	PUNCT	_	_
+------------
+Докладса тиф анализ тяниень пингонь социально-экономическяй ситуацияти.
+
+1	Докладса	NOUN	Case=Ine|Number=Sing|Rus=Yes	доклад
+2	тиф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	сделать
+3	анализ	NOUN	Case=Nom|Number=Sing|Rus=Yes	анализ
+4	тяниень	ADJ		теперешний
+5	пингонь	NOUN	Case=Gen|Number=Sing	время
+6	социально-экономическяй	ADJ	Rus=Yes	социально-экономический
+7	ситуацияти	NOUN	Case=Dat|Definite=Def|Number=Sing|Rus=Yes	ситуация
+8	.	PUNCT	_	_
+9	\n	PUNCT	_	_
+------------
+Азфоль, што 2007 кизоть самс странась и республикась социально-экономическяй ширде вишкста вииякшнесь.
+1	Азфоль	VERB	Number[subj]=Sing|Person[subj]=3|PtcpType=Res|Tense=Prt1|Transitivity=Tr|VerbForm=Part	сказать
+2	,	PUNCT	_	_
+3	што	CONJ	Rus=Yes	что
+4	2007	NUM		_
+5	кизоть	NOUN	Case=Gen|Definite=Def|Number=Sing	лето; год
+6	самс	ADP	AdpType=Post	начиная с
+7	странась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	страна
+8	и	CONJ	Rus=Yes	и
+9	республикась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	республика
+10	социально-экономическяй	ADJ	Rus=Yes	социально-экономический
+11	ширде	NOUN	Case=Abl|Number=Sing	сторона
+12	вишкста	ADV		сильно; быстро
+13	вииякшнесь	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr	усилиться
+14	.	PUNCT	_	_
+##самс ADP? ширде NOUN?
+------------
+Тянь ширде минь республиканьке няфнесь пример странань лия региоттненди.
+1	Тянь	PRON	Case=Gen|Number=Sing	это
+2	ширде	NOUN	Case=Abl|Number=Sing	сторона
+3	минь	PRON	Case=Gen|Number=Plur|Person=1	мы
+4	республиканьке	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	республика
+5	няфнесь	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr	видеть
+6	пример	NOUN	Case=Nom|Number=Sing|Rus=Yes	пример
+7	странань	NOUN	Case=Gen|Number=Sing|Rus=Yes	страна
+8	лия	ADJ		другой, прочий
+9	региоттненди	NOUN	Case=Dat|Definite=Def|Number=Plur|Rus=Yes	регион
+10	.	PUNCT	_	_
+------------
+Аф ваномок мировой финансовай кризисть лангс, республикаса ванфтовсь созидательнай обстановкась.
+1	Аф	AUX	Polarity=Neg	не
+2	ваномок	VERB	CvbType=Simult|Transitivity=Tr|VerbForm=Conv	смотреть
+3	мировой	ADJ	Rus=Yes	мировой
+4	финансовай	ADJ	Rus=Yes	финансовый
+5	кризисть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	кризис
+6	лангс	ADP	AdpType=Post	на
+7	,	PUNCT	_	_
+8	республикаса	NOUN	Case=Ine|Number=Sing|Rus=Yes	республика
+9	ванфтовсь	VERB	Caus=Yes|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr|Voice=Pass	смотреть
+10	созидательнай	ADJ	Rus=Yes	_
+11	обстановкась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	обстановка
+12	.	PUNCT	_	_
+------------
+Тянди лездсь и антикризиснай Программась.
+1	Тянди	PRON	Case=Dat|Number=Sing	это
+2	лездсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr	помочь
+3	и	CONJ	Rus=Yes	и
+4	антикризиснай	ADJ	Rus=Yes	_
+5	Программась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	программа
+6	.	PUNCT	_	_
+------------
+Ванфтовсь производственнай потенциалсь.
+1	Ванфтовсь	VERB	Caus=Yes|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr|Voice=Pass	смотреть
+2	производственнай	ADJ	Rus=Yes	производственный
+3	потенциалсь	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	потенциал
+4	.	PUNCT	_	_
+------------
+Тяфта, велень хозяйствань продукциянь нолямась мелянь тяка пингть коряс ламода касфтф.
+1	Тяфта	ADV	AdvType=Pron	так, таким образом
+2	,	PUNCT	_	_
+3	велень	ADJ		деревенский, сельский
+4	хозяйствань	NOUN	Case=Gen|Number=Sing|Rus=Yes	хозяйство
+5	продукциянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	продукция
+6	нолямась	X	_	_
+7	мелянь	ADJ		прошлогодний
+8	тяка	PRON	Case=Nom|Number=Sing	тот же
+9	пингть	NOUN	Case=Gen|Definite=Def|Number=Sing	время
+10	коряс	ADP	AdpType=Post	по; в направлении
+11	ламода	ADV		намного
+12	касфтф	VERB	Caus=Yes|PtcpType=Res|Transitivity=Intr|VerbForm=Part	расти, вырасти
+13	.	PUNCT	_	_
+------------
+Республикань руководствать лезксонц вельде агропромышленнай комплексть улихть резерванза.
+1	Республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+2	руководствать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	руководство
+3	лезксонц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	помощь
+4	вельде	ADP	AdpType=Post	посредством, путём
+5	агропромышленнай	ADJ	Rus=Yes	агропромышленный
+6	комплексть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	комплекс
+7	улихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+8	резерванза	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3|Rus=Yes	резерв
+9	.	PUNCT	_	_
+------------
+Стабильнай режимса работасть тяддень васень кофнень строительнай организациятне.
+1	Стабильнай	ADJ	Rus=Yes	_
+2	режимса	NOUN	Case=Ine|Number=Sing|Rus=Yes	режим
+3	работасть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Prt1|Transitivity=Tr	работать
+4	тяддень	ADJ		этого, текущего года
+5	васень	ADJ		первый; новый, свежий
+6	кофнень	NOUN	Case=Gen|Definite=Def|Number=Plur	месяц
+7	строительнай	ADJ	Rus=Yes	строительный
+8	организациятне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	организация
+9	.	PUNCT	_	_
+------------
+Парста работай цементнай заводсь.
+1	Парста	ADV		хорошо, замечательно
+2	работай	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr	работать
+3	цементнай	ADJ	Rus=Yes	цементный
+4	заводсь	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	завод
+5	.	PUNCT	_	_
+------------
+А инголе сяда оцю платт.
+1	А	CONJ	Rus=Yes	а
+2	инголе	ADV		в глаза; впереди
+3	сяда	PART		самый
+4	оцю	ADJ		бошьшой; главный; старший
+5	платт	NOUN	Case=Nom|Number=Plur|Rus=Yes	план
+6	.	PUNCT	_	_
+##сяда?
+------------
+Нинге сяда вяри кеподьсы производствать и наукать технопарксь, кона строяви Саранск ошса.
+1	Нинге	ADV		ещё
+2	сяда	PART		самый
+3	вяри	ADV		высоко, наверх
+4	кеподьсы	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	поднять
+5	производствать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	производство
+6	и	CONJ	Rus=Yes	и
+7	наукать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	наука
+8	технопарксь	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	технопарк
+9	,	PUNCT	_	_
+10	кона	PRON	Case=Nom|Number=Sing	который; какой
+11	строяви	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr|Voice=Pass	строить
+12	Саранск	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Саранск
+13	ошса	NOUN	Case=Ine|Number=Sing	город
+14	.	PUNCT	_	_
+------------
+Тя корхтай сянь колга, што миньцонк ули сембось эряфть цебярьгофтоманкса, улихть условият сянкса, штоба строямс стама общества, коса аф кармайхть ашуфт, коса ломаттне улельхть кемот нравственнай и физическяй ширде.
+1	Тя	PRON	Case=Nom|Number=Sing	это
+2	корхтай	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	говорить
+3	сянь	PRON	Case=Gen|Number=Sing	тот, та, то
+4	колга	ADP	AdpType=Post	о
+5	,	PUNCT	_	_
+6	што	CONJ	Rus=Yes	что
+7	миньцонк	PRON	Case=Ine|Number=Plur|Person=1	мы
+8	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+9	сембось	PRON	Case=Nom|Definite=Def|Number=Sing	всё
+10	эряфть	NOUN	Case=Gen|Definite=Def|Number=Sing	жизнь
+11	цебярьгофтоманкса	VERB	Case=Cau|Caus=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	улучшиться
+12	,	PUNCT	_	_
+13	улихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+14	условият	NOUN	Case=Nom|Number=Plur|Rus=Yes	условие
+15	сянкса	PRON	Case=Cau|Number=Sing	тот, та, то
+16	,	PUNCT	_	_
+17	штоба	CONJ	Rus=Yes	чтобы
+18	строямс	VERB	Rus=Yes|Transitivity=Tr|VerbForm=Inf	строить
+19	стама	PRON	Case=Nom|Number=Sing	такой
+20	общества	NOUN	Case=Nom|Number=Sing|Rus=Yes	общество
+21	,	PUNCT	_	_
+22	коса	ADV	AdvType=Pron	где
+23	аф	AUX	Polarity=Neg	не
+24	кармайхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	начать
+25	ашуфт	ADJ	Case=Nom|Number=Plur	бедный
+26	,	PUNCT	_	_
+27	коса	ADV	AdvType=Pron	где
+28	ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+29	улельхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Prt2|Transitivity=Intr	быть
+30	кемот	ADJ	Case=Nom|Number=Plur	крепкий, здоровый
+31	нравственнай	ADJ	Rus=Yes	нравственный
+32	и	CONJ	Rus=Yes	и
+33	физическяй	ADJ	Rus=Yes	физический
+34	ширде	NOUN	Case=Abl|Number=Sing	сторона
+35	.	PUNCT	_	_
+##аф Part? ширде Noun?
+------------
+Тянкса и стройсевихть физкультурно-оздоровительнай комплексне, стадиоттне, школьнай спортивнай площадкатне.
+1	Тянкса	ADV	AdvType=Pron	поэтому
+2	и	CONJ	Rus=Yes	и
+3	стройсевихть	X	_	_
+4	физкультурно-оздоровительнай	ADJ	Rus=Yes	физкультурно-оздоровительный
+5	комплексне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	комплекс
+6	,	PUNCT	_	_
+7	стадиоттне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	стадион
+8	,	PUNCT	_	_
+9	школьнай	ADJ	Rus=Yes	школьный
+10	спортивнай	ADJ	Rus=Yes	спортивный
+11	площадкатне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	площадка
+12	.	PUNCT	_	_
+##площадкатне def
+------------
+Путневи задача цебярьгофтомс образовательнай системать, эряфс етафтомс од ломаттненди эряма вастонь строямань программать.
+
+1	Путневи	X	_	_
+2	задача	NOUN	Case=Nom|Number=Sing|Rus=Yes	задача
+3	цебярьгофтомс	VERB	Caus=Yes|Transitivity=Intr|VerbForm=Inf	улучшиться
+4	образовательнай	ADJ	Rus=Yes	образовательный
+5	системать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	система
+6	,	PUNCT	_	_
+7	эряфс	NOUN	Case=Ill|Number=Sing	жизнь
+8	етафтомс	VERB	Caus=Yes|Transitivity=Intr|VerbForm=Inf	пройти
+9	од	ADJ		молодой, новый
+10	ломаттненди	NOUN	Case=Dat|Definite=Def|Number=Plur	человек
+11	эряма	VERB	Case=Nom|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	жить
+12	вастонь	NOUN	Case=Gen|Number=Sing	место
+13	строямань	VERB	Case=Gen|Number=Sing|Rus=Yes|Transitivity=Tr|VerbForm=Vnoun	строить
+14	программать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	программа
+15	.	PUNCT	_	_
+16	\n	PUNCT	_	_
+##эряфс
+------------
+Мольфтевсь корхтама и кризисть сюнеда эвондаф афпархнень колга, мзярда кирьфневихть рабочайхнень лувкссна, зарплатась и стак тов.
+
+1	Мольфтевсь	VERB	Caus=Yes|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr|Voice=Pass	идти
+2	корхтама	VERB	Case=Nom|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	говорить
+3	и	CONJ	Rus=Yes	и
+4	кризисть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	кризис
+5	сюнеда	ADP	AdpType=Post	из-за, по причине, вследствие
+6	эвондаф	VERB	PtcpType=Res|Transitivity=Intr|VerbForm=Part	появиться
+7	афпархнень	VERB	Case=Gen|Definite=Def|Number=Plur|VerbForm=Part	_
+8	колга	ADP	AdpType=Post	о
+9	,	PUNCT	_	_
+10	мзярда	ADV	AdvType=Pron	когда
+11	кирьфневихть	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr|Voice=Pass	сократиться
+12	рабочайхнень	ADJ	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	рабочий
+13	лувкссна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	количество, число
+14	,	PUNCT	_	_
+15	зарплатась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	зарплата
+16	и	CONJ	Rus=Yes	и
+17	стак	ADV		просто так; так же; даром
+18	тов	ADV	AdvType=Pron	туда
+19	.	PUNCT	_	_
+20	\n	PUNCT	_	_
+##рабочайхнень NOUN def
+------------
+Оцю мяль шарфтфоль сянди, кода цебярьгофтомс властень оргаттнень, банкнень, партиянь региональнай и местнай отделениятнень работаснон.
+1	Оцю	ADJ		большой; главный; старший
+2	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+3	шарфтфоль	VERB	Caus=Yes|Number[subj]=Sing|Person[subj]=3|PtcpType=Res|Tense=Prt1|Transitivity=Intr|VerbForm=Part	кружиться, повернуться, перевернуться
+4	сянди	PRON	Case=Dat|Number=Sing	тот, та, то
+5	,	PUNCT	_	_
+6	кода	ADV	AdvType=Pron	как
+7	цебярьгофтомс	VERB	Caus=Yes|Transitivity=Intr|VerbForm=Inf	улучшиться
+8	властень	NOUN	Case=Gen|Number=Sing|Rus=Yes	власть
+9	оргаттнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	орган
+10	,	PUNCT	_	_
+11	банкнень	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1|Rus=Yes	банк
+12	,	PUNCT	_	_
+13	партиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	партия
+14	региональнай	ADJ	Rus=Yes	региональный
+15	и	CONJ	Rus=Yes	и
+16	местнай	ADJ	Rus=Yes	местный
+17	отделениятнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	отделение
+18	работаснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	работа
+19	.	PUNCT	_	_
+------------
+Азфоль, што Мордовиясь политическяй и экономическяй ширде регионць стабильнай.
+1	Азфоль	VERB	Number[subj]=Sing|Person[subj]=3|PtcpType=Res|Tense=Prt1|Transitivity=Tr|VerbForm=Part	сказать
+2	,	PUNCT	_	_
+3	што	CONJ	Rus=Yes	что
+4	Мордовиясь	PROPN	Case=Nom|Definite=Def|Number=Sing|PropnType=TopN	Мордовия
+5	политическяй	ADJ	Rus=Yes	политический
+6	и	CONJ	Rus=Yes	и
+7	экономическяй	ADJ	Rus=Yes	экономический
+8	ширде	NOUN	Case=Abl|Number=Sing	сторона
+9	регионць	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	регион
+10	стабильнай	ADJ	Rus=Yes	_
+11	.	PUNCT	_	_
+------------
+А тянкса оцю заслугац партиять Мордовскяй региональнай отделениянц, конань 818 первичнай отделениянза лезнихть ошень, велень эряйхненди эряфонь кизефкснень решандамста.
+
+1	А	CONJ	Rus=Yes	а
+2	тянкса	PRON	Case=Cau|Number=Sing	это
+3	оцю	ADJ		бошьшой; главный; старший
+4	заслугац	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	заслуга
+5	партиять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	партия
+6	Мордовскяй	ADJ	Rus=Yes	мордовский
+7	региональнай	ADJ	Rus=Yes	региональный
+8	отделениянц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	отделение
+9	,	PUNCT	_	_
+10	конань	PRON	Case=Gen|Number=Sing	который; какой
+11	818	NUM		_
+12	первичнай	ADJ	Rus=Yes	первичный
+13	отделениянза	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3|Rus=Yes	отделение
+14	лезнихть	X	_	_
+15	ошень	ADJ		городской
+16	,	PUNCT	_	_
+17	велень	ADJ		деревенский, сельский
+18	эряйхненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	житель
+19	эряфонь	ADJ		жизненный
+20	кизефкснень	NOUN	Case=Gen|Definite=Def|Number=Plur	вопрос
+21	решандамста	VERB	Case=Ela|Rus=Yes|Transitivity=Tr|VerbForm=Vnoun	решить
+22	.	PUNCT	_	_
+23	\n	PUNCT	_	_
+------------
+Ф.АНДРЕЕВ.
+
+1	Ф.АНДРЕЕВ	X	_	_
+2	.	PUNCT	_	_
+3	\n	PUNCT	_	_
+------------
+КОЧЕТОВКАСА КЕЛЬГСАЗЬ «МОКШЕНЬ ПРАВДАТЬ»
+
+1	КОЧЕТОВКАСА	X	_	_
+2	КЕЛЬГСАЗЬ	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	любить
+3	«	PUNCT	_	_
+4	МОКШЕНЬ	ADJ		мокшанский
+5	ПРАВДАТЬ	PROPN	Case=Gen|Definite=Def|Number=Sing	Правда
+6	»	PUNCT	_	_
+7	\n	PUNCT	_	_
+##mwe?
+------------
+Мекольдень кизотнень редакциязонк лувиеньконь эзда сашенды лама сермада.
+1	Мекольдень	ADJ		последний
+2	кизотнень	NOUN	Case=Gen|Definite=Def|Number=Plur	лето; год
+3	редакциязонк	NOUN	Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	редакция
+4	лувиеньконь	X	_	_
+5	эзда	ADP	AdpType=Post	из
+6	сашенды	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	прийти
+7	лама	ADV		много
+8	сермада	NOUN	Case=Abl|Number=Sing	письмо; грамота; узор; документ
+9	.	PUNCT	_	_
+------------
+Ломаттне тяштихть разнай темас: кинь мезсь таколфтсы, кизефкс и эняльдема мархта сермат, азондсазь эсь мяльснон эряфса афсатыкснень колга.
+1	Ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+2	тяштихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr	писать
+3	разнай	ADJ	Rus=Yes	разный
+4	темас	NOUN	Case=Ill|Number=Sing|Rus=Yes	тема
+5	:	PUNCT	_	_
+6	кинь	PRON	Case=Nom|Number=Sing	чей
+7	мезсь	PRON	Case=Nom|Definite=Def|Number=Sing	что
+8	таколфтсы	VERB	Caus=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Intr	беспокоиться
+9	,	PUNCT	_	_
+10	кизефкс	NOUN	Case=Nom|Number=Sing	вопрос
+11	и	CONJ	Rus=Yes	и
+12	эняльдема	VERB	Case=Nom|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	просить, умолять
+13	мархта	ADP	AdpType=Post	с
+14	сермат	NOUN	Case=Nom|Number=Plur	письмо; грамота; узор; документ
+15	,	PUNCT	_	_
+16	азондсазь	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	сказать
+17	эсь	PRON	Case=Nom|PronType=Refl	свой
+18	мяльснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	желание, охота
+19	эряфса	NOUN	Case=Ine|Number=Sing	жизнь
+20	афсатыкснень	NOUN	Case=Gen|Definite=Def|Number=Plur	недостаток
+21	колга	ADP	AdpType=Post	о
+22	.	PUNCT	_	_
+##кинь Gen кто
+------------
+Минь, редакцияса покодихне, сявондьсаськ тянь семботь мяльс и эрь сермать аф кадондсаськ ответфтома.
+1	Минь	PRON	Case=Nom|Number=Plur|Person=1	мы
+2	,	PUNCT	_	_
+3	редакцияса	NOUN	Case=Ine|Number=Sing|Rus=Yes	редакция
+4	покодихне	VERB	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	_
+5	,	PUNCT	_	_
+6	сявондьсаськ	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Transitivity=Tr	взять
+7	тянь	PRON	Case=Gen|Number=Sing	это
+8	семботь	PRON	Case=Gen|Definite=Def|Number=Sing	всё
+9	мяльс	NOUN	Case=Ill|Number=Sing	желание, охота
+10	и	CONJ	Rus=Yes	и
+11	эрь	ADJ		каждый, любой, всякий
+12	сермать	NOUN	Case=Gen|Definite=Def|Number=Sing	письмо; грамота; узор; документ
+13	аф	AUX	Polarity=Neg	не
+14	кадондсаськ	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Transitivity=Tr	оставить
+15	ответфтома	NOUN	Case=Abe|Number=Sing|Rus=Yes	ответ
+16	.	PUNCT	_	_
+##аф part neg?
+------------
+Газетать редакцияц кирди кеме соткст лувить мархта.
+1	Газетать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	газета
+2	редакцияц	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	редакция
+3	кирди	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	держать
+4	кеме	ADJ		крепкий, здоровый
+5	соткст	NOUN	Case=Nom|Number=Plur	связь; узел
+6	лувить	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Sing	читатель
+7	мархта	ADP	AdpType=Post	с
+8	.	PUNCT	_	_
+------------
+Сяс, улема, оцю мяльса тяштьфнесазь и лувондсазь масторлангса фкя и сяка мокшень газетаньконь.
+1	Сяс	ADV	AdvType=Pron	поэтому
+2	,	PUNCT	_	_
+3	улема	ADV	AdvType=Parenth	кажется, вероятно, видимо
+4	,	PUNCT	_	_
+5	оцю	ADJ		бошьшой; главный; старший
+6	мяльса	NOUN	Case=Ine|Number=Sing	желание, охота
+7	тяштьфнесазь	VERB	Caus=Yes|Mult=Yes|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	писать
+8	и	CONJ	Rus=Yes	и
+9	лувондсазь	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	читать
+10	масторлангса	X	_	_
+11	фкя	NUM		один
+12	и	CONJ	Rus=Yes	и
+13	сяка	PRON	Case=Nom|Number=Sing	тот же самый; всё равно
+14	мокшень	ADJ		мокшанский
+15	газетаньконь	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	газета
+16	.	PUNCT	_	_
+------------
+Тя тейнек, мокшень журналисттненди, максси эрьгя сяда тов работамс.
+1	Тя	PRON	Case=Nom|Number=Sing	это
+2	тейнек	PRON	Case=Dat|Number=Plur|Person=1	мы
+3	,	PUNCT	_	_
+4	мокшень	ADJ		мокшанский
+5	журналисттненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur|Rus=Yes	журналист
+6	,	PUNCT	_	_
+7	максси	VERB	Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	дать
+8	эрьгя	NOUN	Case=Nom|Number=Sing	сила, мощь
+9	сяда	PART		самый
+10	тов	ADV	AdvType=Pron	туда
+11	работамс	VERB	Rus=Yes|Transitivity=Tr|VerbForm=Inf	работать
+12	.	PUNCT	_	_
+------------
+Кода няеви газетазонк серматфтомать эзда, лувихнень лувкссна кой-кона велетнень эса касы.
+1	Кода	ADV	AdvType=Pron	как
+2	няеви	VERB	Transitivity=Tr|VerbForm=Part|Voice=Pass	видеть
+3	газетазонк	NOUN	Case=Ill|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	газета
+4	серматфтомать	X	_	_
+5	эзда	ADP	AdpType=Post	из
+6	,	PUNCT	_	_
+7	лувихнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur	читатель
+8	лувкссна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	количество, число
+9	кой-кона	PRON	Case=Nom|Number=Sing	некоторый, кое-кто
+10	велетнень	NOUN	Case=Gen|Definite=Def|Number=Plur	село, селение
+11	эса	ADP	AdpType=Post	там
+12	касы	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	расти, вырасти
+13	.	PUNCT	_	_
+------------
+Цебярь примеркс тянди ащи Инсарскяй райононь Кочетовка мокшень велесь.
+
+1	Цебярь	ADJ		хороший
+2	примеркс	NOUN	Case=Tra|Number=Sing|Rus=Yes	пример
+3	тянди	PRON	Case=Dat|Number=Sing	это
+4	ащи	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть, находиться; сидеть
+5	Инсарскяй	ADJ	PropnType=TopN	Инсарский
+6	райононь	NOUN	Case=Gen|Number=Sing|Rus=Yes	район
+7	Кочетовка	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Кочетовка
+8	мокшень	ADJ		мокшанский
+9	велесь	NOUN	Case=Nom|Definite=Def|Number=Sing	село, селение
+10	.	PUNCT	_	_
+11	\n	PUNCT	_	_
+------------
+Кочетовкась—мокшень велетнень эзда фкясь, коса минценнети, национальнайти шарфневи оцю мяль.
+1	Кочетовкась—мокшень	X	_	_
+2	велетнень	NOUN	Case=Gen|Definite=Def|Number=Plur	село, селение
+3	эзда	ADP	AdpType=Post	из
+4	фкясь	NUM	Case=Nom|Definite=Def|Number=Sing	один
+5	,	PUNCT	_	_
+6	коса	ADV	AdvType=Pron	где
+7	минценнети	X	_	_
+8	,	PUNCT	_	_
+9	национальнайти	ADJ	Case=Dat|Definite=Def|Number=Sing|Rus=Yes	национальный
+10	шарфневи	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr|Voice=Pass	кружиться, повернуться, перевернуться
+11	оцю	ADJ		бошьшой; главный; старший
+12	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+13	.	PUNCT	_	_
+##Кочетовкась—мокшень
+------------
+Ня шитнень тейне савсь улемс тя велеса и седикс-ваймокс корхнемс тястонь тевонь кельги и пара вайме ломаттнень мархта.
+1	Ня	PRON	Case=Nom|Number=Sing	эти
+2	шитнень	NOUN	Case=Gen|Definite=Def|Number=Plur	день
+3	тейне	PRON	Case=Dat|Number=Sing|Person=1	я
+4	савсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr|Voice=Pass	прийти
+5	улемс	VERB	Transitivity=Intr|VerbForm=Inf	быть
+6	тя	PRON	Case=Nom|Number=Sing	это
+7	велеса	NOUN	Case=Ine|Number=Sing	село, селение
+8	и	CONJ	Rus=Yes	и
+9	седикс-ваймокс	ADV		откровенно
+10	корхнемс	VERB	Mult=Yes|Transitivity=Intr|VerbForm=Inf	разговаривать
+11	тястонь	ADJ		местный, здешний
+12	тевонь	NOUN	Case=Gen|Number=Sing	дело
+13	кельги	VERB	Transitivity=Tr|VerbForm=Part	любить
+14	и	CONJ	Rus=Yes	и
+15	пара	ADJ		хороший, добрый
+16	вайме	NOUN	Case=Nom|Number=Sing	душа
+17	ломаттнень	NOUN	Case=Gen|Definite=Def|Number=Plur	человек
+18	мархта	ADP	AdpType=Post	с
+19	.	PUNCT	_	_
+##шитнень def
+------------
+Фкясь эздост—почтань заведующайсь Нина Александровна Евстифейкина.
+1	Фкясь	NUM	Case=Nom|Definite=Def|Number=Sing	один
+2	эздост—почтань	X	_	_
+3	заведующайсь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	заведующий
+4	Нина	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Нина
+5	Александровна	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Александровна
+6	Евстифейкина	PROPN	Case=Nom|Number=Sing|PropnType=FamN	_
+7	.	PUNCT	_	_
+------------
+Сон марнек эряфонц максозе эсь кельгома тевонцты.
+1	Сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+2	марнек	ADV		целиком
+3	эряфонц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	жизнь
+4	максозе	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	дать
+5	эсь	PRON	Case=Nom|PronType=Refl	свой
+6	кельгома	VERB	Case=Nom|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	любить
+7	тевонцты	NOUN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	дело
+8	.	PUNCT	_	_
+##марнек Pron, adj? эряфонц, кельгома ADJ
+------------
+Фалу ульсь и лядонды цебярь ялгакс газетаньконди.
+
+1	Фалу	ADV		всегда, постоянно
+2	ульсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr	быть
+3	и	CONJ	Rus=Yes	и
+4	лядонды	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	остаться
+5	цебярь	ADJ		хороший
+6	ялгакс	NOUN	Animacy=Hum|Case=Tra|Number=Sing	друг, товарищ
+7	газетаньконди	NOUN	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	газета
+8	.	PUNCT	_	_
+9	\n	PUNCT	_	_
+------------
+—Велесонк пяк кельгсазь «Мокшень правдать»,—корхтай Нина Александровна.—Сиренек-однек тяштьфнесазь.
+1	—	PUNCT	_	_
+2	Велесонк	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	село, селение
+3	пяк	ADV		очень, сильно
+4	кельгсазь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	любить
+5	«	PUNCT	_	_
+6	Мокшень	ADJ		мокшанский
+7	правдать»,—корхтай	ADJ	Rus=Yes	_
+8	Нина	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Нина
+9	Александровна.—Сиренек-однек	X	_	_
+10	тяштьфнесазь	VERB	Caus=Yes|Mult=Yes|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	писать
+11	.	PUNCT	_	_
+##пробелы!
+------------
+Вов тяддевок планть газетати тяштьфтемать коряс пяшкодеськ ни.
+1	Вов	PART		вот
+2	тяддевок	ADV	Clitic=Add|Typo=Yes	в этом году
+3	планть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	план
+4	газетати	NOUN	Case=Dat|Definite=Def|Number=Sing|Rus=Yes	газета
+5	тяштьфтемать	VERB	Case=Gen|Caus=Yes|Definite=Def|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	писать
+6	коряс	ADP	AdpType=Post	по; в направлении
+7	пяшкодеськ	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Transitivity=Tr	наполнить
+8	ни	PART		уж, уже
+9	.	PUNCT	_	_
+------------
+Сяс тянь ширде Кочетовкась можна путомс примеркс райононь лия велетненди.
+
+1	Сяс	ADV	AdvType=Pron	поэтому
+2	тянь	PRON	Case=Gen|Number=Sing	это
+3	ширде	NOUN	Case=Abl|Number=Sing	сторона
+4	Кочетовкась	PROPN	Case=Nom|Definite=Def|Number=Sing|PropnType=TopN	Кочетовка
+5	можна	AUX	Rus=Yes	можно
+6	путомс	VERB	Transitivity=Tr|VerbForm=Inf	поставить, положить; посеять
+7	примеркс	NOUN	Case=Tra|Number=Sing|Rus=Yes	пример
+8	райононь	NOUN	Case=Gen|Number=Sing|Rus=Yes	район
+9	лия	ADJ		другой, прочий
+10	велетненди	NOUN	Case=Dat|Definite=Def|Number=Plur	село, селение
+11	.	PUNCT	_	_
+12	\n	PUNCT	_	_
+##ширде
+------------
+Тяса улемстон сувсень Кочетовкань средняй школав, коса директоркс лама киза покоди Российскяй Федерациянь образованиянь Почетнай работниксь, Мордовия Республикань образованиянь Заслуженнай работниксь Валентина Михайловна Макаровась.
+1	Тяса	ADV	AdvType=Pron	здесь, тут
+2	улемстон	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=1	удочка
+3	сувсень	VERB	Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Transitivity=Intr	входить
+4	Кочетовкань	ADJ		Кочетовский
+5	средняй	ADJ	Rus=Yes	средний
+6	школав	NOUN	Case=Lat|Number=Sing|Rus=Yes	школа
+7	,	PUNCT	_	_
+8	коса	ADV	AdvType=Pron	где
+9	директоркс	NOUN	Animacy=Hum|Case=Tra|Number=Sing|Rus=Yes	директор
+10	лама	ADJ		многий
+11	киза	NOUN	Case=Nom|Number=Sing	лето; год
+12	покоди	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	работать, трудиться
+13	Российскяй	ADJ	Rus=Yes	российскяй
+14	Федерациянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	федерация
+15	образованиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	образование
+16	Почетнай	ADJ	Rus=Yes	почётный
+17	работниксь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	работник
+18	,	PUNCT	_	_
+19	Мордовия	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Мордовия
+20	Республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+21	образованиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	образование
+22	Заслуженнай	ADJ	Rus=Yes	заслуженный
+23	работниксь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	работник
+24	Валентина	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Валентина
+25	Михайловна	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Михайловна
+26	Макаровась	PROPN	Case=Nom|Definite=Def|Number=Sing|PropnType=FamN	Макарова
+27	.	PUNCT	_	_
+##улемстон
+------------
+Сембоста няевсь, што сон аф аньцек афкуксонь педагог, но и цебярь хозяйственник.
+1	Сембоста	PRON	Case=Ela|Number=Sing	всё
+2	няевсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr|Voice=Pass	видеть
+3	,	PUNCT	_	_
+4	што	CONJ	Rus=Yes	что
+5	сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+6	аф	AUX	Polarity=Neg	не
+7	аньцек	ADV		только; только что
+8	афкуксонь	ADJ		действительный, настоящий
+9	педагог	NOUN	Animacy=Hum|Case=Nom|Number=Sing|Rus=Yes	педагог
+10	,	PUNCT	_	_
+11	но	CONJ	Rus=Yes	но
+12	и	CONJ	Rus=Yes	и
+13	цебярь	ADJ		хороший
+14	хозяйственник	NOUN	Animacy=Hum|Case=Nom|Number=Sing|Rus=Yes	хозяйственник
+15	.	PUNCT	_	_
+------------
+Сембось школасост ладяф-тиф тяниень вешфкснень коряс.
+1	Сембось	PRON	Case=Nom|Definite=Def|Number=Sing	всё
+2	школасост	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	школа
+3	ладяф	VERB	PtcpType=Res|Rus=Yes|Transitivity=Tr|VerbForm=Part	наладить; договориться
+4	-	PUNCT	_	_
+5	тиф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	сделать
+6	тяниень	ADJ		теперешний
+7	вешфкснень	NOUN	Case=Gen|Definite=Def|Number=Plur	поиск, запрос
+8	коряс	ADP	AdpType=Post	по; в направлении
+9	.	PUNCT	_	_
+------------
+Оцю мяль шарфневи национальнайтивок.
+1	Оцю	ADJ		бошьшой; главный; старший
+2	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+3	шарфневи	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr|Voice=Pass	кружиться, повернуться, перевернуться
+4	национальнайтивок	ADJ	Case=Dat|Clitic=Add|Definite=Def|Number=Sing|Rus=Yes|Typo=Yes	национальный
+5	.	PUNCT	_	_
+##национальнайтивок typo?
+------------
+Синьцост 1991 кизоста сявомок пуроптф краеведческяй музей, конанди вятикс мокшень кялень и литературань учительсь, «Лучший учитель года» республиканскяй конкурсса сяськись Зинаида Ивановна Кирдяпкинась.
+1	Синьцост	PRON	Case=Ine|Number=Plur|Person=3	они
+2	1991	NUM		_
+3	кизоста	NOUN	Case=Ela|Number=Sing	лето; год
+4	сявомок	VERB	CvbType=Simult|Transitivity=Tr|VerbForm=Conv	взять
+5	пуроптф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	собрать, созвать
+6	краеведческяй	ADJ	Rus=Yes	краеведческий
+7	музей	NOUN	Case=Nom|Number=Sing|Rus=Yes	музей
+8	,	PUNCT	_	_
+9	конанди	PRON	Case=Dat|Number=Sing	который; какой
+10	вятикс	NOUN	Animacy=Hum|Case=Tra|Number=Sing	вожак
+11	мокшень	ADJ		мокшанский
+12	кялень	NOUN	Case=Gen|Number=Sing	язык
+13	и	CONJ	Rus=Yes	и
+14	литературань	NOUN	Case=Gen|Number=Sing|Rus=Yes	литература
+15	учительсь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	учитель
+16	,	PUNCT	_	_
+17	«	PUNCT	_	_
+18	Лучший	X	_	_
+19	учитель	NOUN	Animacy=Hum|Rus=Yes	учитель
+20	года	X	_	_
+21	»	PUNCT	_	_
+22	республиканскяй	ADJ	Rus=Yes	республиканский
+23	конкурсса	NOUN	Case=Ine|Number=Sing|Rus=Yes	конкурс
+24	сяськись	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	победитель
+25	Зинаида	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Зинаида
+26	Ивановна	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Ивановна
+27	Кирдяпкинась	PROPN	Case=Nom|Definite=Def|Number=Sing|PropnType=FamN	_
+28	.	PUNCT	_	_
+------------
+Музейть пуроптыец школань ингольдень директорсь Валентина Сергеевна Валькова.
+
+1	Музейть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	музей
+2	пуроптыец	X	_	_
+3	школань	NOUN	Case=Gen|Number=Sing|Rus=Yes	школа
+4	ингольдень	ADJ		прежний, бывший; передний
+5	директорсь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	директор
+6	Валентина	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Валентина
+7	Сергеевна	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Сергеевна
+8	Валькова	PROPN	Case=Nom|Number=Sing|PropnType=FamN	_
+9	.	PUNCT	_	_
+10	\n	PUNCT	_	_
+------------
+—«Мокшень правдать» лувондса пяк кунара,—мархтонк корхнемста мярьгсь Зинаида Ивановна.
+1	—«	PUNCT	_	_
+2	Мокшень	ADJ		мокшанский
+3	правдать	PROPN	Case=Gen|Definite=Def|Number=Sing	Правда
+4	»	PUNCT	_	_
+5	лувондса	VERB	Aspect=Iter|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Transitivity=Tr	читать
+6	пяк	ADV		очень, сильно
+7	кунара,—мархтонк	X	_	_
+8	корхнемста	VERB	Case=Ela|Mult=Yes|Transitivity=Intr|VerbForm=Vnoun	разговаривать
+9	мярьгсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr	сказать
+10	Зинаида	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Зинаида
+11	Ивановна	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Ивановна
+12	.	PUNCT	_	_
+##пробелы!
+------------
+—Тядянь-алянь кяльса изданияста мон, кода учитель, мушендан лама эрявикс материал.
+1	—	PUNCT	_	_
+2	Тядянь-алянь	ADJ		родительский
+3	кяльса	NOUN	Case=Ine|Number=Sing	язык
+4	изданияста	NOUN	Case=Ela|Number=Sing|Rus=Yes	издание
+5	мон	PRON	Case=Nom|Number=Sing|Person=1	я
+6	,	PUNCT	_	_
+7	кода	ADV	AdvType=Pron	как
+8	учитель	NOUN	Animacy=Hum|Case=Nom|Number=Sing|Rus=Yes	учитель
+9	,	PUNCT	_	_
+10	мушендан	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Transitivity=Tr	найти
+11	лама	ADJ		многий
+12	эрявикс	ADJ		нужный, необходимый
+13	материал	NOUN	Case=Nom|Number=Sing|Rus=Yes	материал
+14	.	PUNCT	_	_
+------------
+Урокненди анокламста тевс нолясайне мокшень поэттнень и писательхнень квалма статьятнень.
+1	Урокненди	NOUN	Case=Dat|Definite=Def|Number=Plur|Rus=Yes	урок
+2	анокламста	VERB	Case=Ela|Transitivity=Tr|VerbForm=Vnoun	готовить, готовиться
+3	тевс	NOUN	Case=Ill|Number=Sing	дело
+4	нолясайне	X	_	_
+5	мокшень	ADJ		мокшанский
+6	поэттнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	поэт
+7	и	CONJ	Rus=Yes	и
+8	писательхнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	писатель
+9	квалма	ADP	AdpType=Post	по, вдоль; о
+10	статьятнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	статья
+11	.	PUNCT	_	_
+------------
+Мокшень кялень и литературань учительхненди газетась арась шра лангонь изданиякс.
+1	Мокшень	ADJ		мокшанский
+2	кялень	NOUN	Case=Gen|Number=Sing	язык
+3	и	CONJ	Rus=Yes	и
+4	литературань	NOUN	Case=Gen|Number=Sing|Rus=Yes	литература
+5	учительхненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur|Rus=Yes	учитель
+6	газетась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	газета
+7	арась	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr	стать
+8	шра	NOUN	Case=Nom|Number=Sing	стол
+9	лангонь	NOUN	Case=Gen|Number=Sing	поверхность
+10	изданиякс	NOUN	Case=Tra|Number=Sing|Rus=Yes	издание
+11	.	PUNCT	_	_
+##шра лангонь mwe?
+------------
+Сон кизоста кизос полафни цебярь шири.
+1	Сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+2	кизоста	NOUN	Case=Ela|Number=Sing	лето; год
+3	кизос	NOUN	Case=Ill|Number=Sing	лето; год
+4	полафни	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	удлинить, надставить
+5	цебярь	ADJ		хороший
+6	шири	NOUN	Case=Lat|Number=Sing	сторона
+7	.	PUNCT	_	_
+------------
+Газетаста сотцесаськ, мезе тиендеви Мордовияса, странаса.
+1	Газетаста	NOUN	Case=Ela|Number=Sing|Rus=Yes	газета
+2	сотцесаськ	X	_	_
+3	,	PUNCT	_	_
+4	мезе	PRON	Case=Nom|Number=Sing	что
+5	тиендеви	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	сделать
+6	Мордовияса	PROPN	Case=Ine|Number=Sing|PropnType=TopN	Мордовия
+7	,	PUNCT	_	_
+8	странаса	NOUN	Case=Ine|Number=Sing|Rus=Yes	страна
+9	.	PUNCT	_	_
+------------
+Оцю мяль шарфнян образованиять мархта сотф кизефксненди.
+1	Оцю	ADJ		бошьшой; главный; старший
+2	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+3	шарфнян	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Transitivity=Intr	кружиться, повернуться, перевернуться
+4	образованиять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	образование
+5	мархта	ADP	AdpType=Post	с
+6	сотф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	завязать
+7	кизефксненди	NOUN	Case=Dat|Definite=Def|Number=Plur	вопрос
+8	.	PUNCT	_	_
+------------
+Пара сявок, што макссетяда васта иттнень творчестваснондывок.
+
+1	Пара	ADJ		хороший, добрый
+2	сявок	PRON	Case=Nom|Clitic=Add|Number=Sing|Typo=Yes	тот, та, то
+3	,	PUNCT	_	_
+4	што	CONJ	Rus=Yes	что
+5	макссетяда	VERB	Conjug=NonObj|Mult=Yes|Number[subj]=Plur|Person[subj]=2|Tense=Pres|Transitivity=Tr	дать
+6	васта	NOUN	Case=Nom|Number=Sing	место
+7	иттнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur	ребёнок
+8	творчестваснондывок	NOUN	Case=Dat|Clitic=Add|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes|Typo=Yes	творчество
+9	.	PUNCT	_	_
+10	\n	PUNCT	_	_
+##typos??
+------------
+Улемок Кочетовкань средняй школаса, кеподи мяльце.
+1	Улемок	VERB	CvbType=Simult|Transitivity=Intr|VerbForm=Conv	быть
+2	Кочетовкань	ADJ		Кочетовский
+3	средняй	ADJ	Rus=Yes	средний
+4	школаса	NOUN	Case=Ine|Number=Sing|Rus=Yes	школа
+5	,	PUNCT	_	_
+6	кеподи	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	поднять
+7	мяльце	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	желание, охота
+8	.	PUNCT	_	_
+------------
+Учительхне и иттне оцю мяльса фалу анокт няфтемс эсь кельгомаснон мокшень кяльти, газетаньконди и целайнек национальнайти.
+1	Учительхне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	учитель
+2	и	CONJ	Rus=Yes	и
+3	иттне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	ребёнок
+4	оцю	ADJ		бошьшой; главный; старший
+5	мяльса	NOUN	Case=Ine|Number=Sing	желание, охота
+6	фалу	ADV		всегда, постоянно
+7	анокт	ADJ	Case=Nom|Number=Plur	готовый, завершённый
+8	няфтемс	VERB	Transitivity=Tr|VerbForm=Inf	показать
+9	эсь	PRON	Case=Nom|PronType=Refl	свой
+10	кельгомаснон	VERB	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|Transitivity=Tr|VerbForm=Vnoun	любить
+11	мокшень	ADJ		мокшанский
+12	кяльти	NOUN	Case=Dat|Definite=Def|Number=Sing	язык
+13	,	PUNCT	_	_
+14	газетаньконди	NOUN	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	газета
+15	и	CONJ	Rus=Yes	и
+16	целайнек	ADV	Rus=Yes	целиком, полностью
+17	национальнайти	ADJ	Case=Dat|Definite=Def|Number=Sing|Rus=Yes	национальный
+18	.	PUNCT	_	_
+##кельгомаснон Noun?
+------------
+Шнама и ся, што школать видеса ули оцю приусадебнай участка.
+1	Шнама	VERB	Case=Nom|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	хвалить
+2	и	CONJ	Rus=Yes	и
+3	ся	PRON	Case=Nom|Number=Sing	тот, та, то
+4	,	PUNCT	_	_
+5	што	CONJ	Rus=Yes	что
+6	школать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	школа
+7	видеса	ADP	AdpType=Post	при, у, около
+8	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+9	оцю	ADJ		бошьшой; главный; старший
+10	приусадебнай	ADJ	Rus=Yes	_
+11	участка	NOUN	Case=Nom|Number=Sing|Rus=Yes	участок
+12	.	PUNCT	_	_
+------------
+Мезе аньцек тяса апак путт!
+1	Мезе	PRON	Case=Nom|Number=Sing	что
+2	аньцек	ADV		только; только что
+3	тяса	ADV	AdvType=Pron	здесь, тут
+4	апак	PART		не (с прилагательными и наречиями)
+5	путт	NOUN	Case=Nom|Number=Plur|Rus=Yes	пуд
+6	!	PUNCT	_	_
+##апак neg? путт ptcp??
+------------
+И куярхт, и шурьхкат, и пурьхкат, и чеснок, и помидорат, стак тов.
+1	И	CONJ	Rus=Yes	и
+2	куярхт	NOUN	Case=Nom|Number=Plur	огурец
+3	,	PUNCT	_	_
+4	и	CONJ	Rus=Yes	и
+5	шурьхкат	NOUN	Case=Nom|Number=Plur	лук (растение)
+6	,	PUNCT	_	_
+7	и	CONJ	Rus=Yes	и
+8	пурьхкат	NOUN	Case=Nom|Number=Plur	морковь
+9	,	PUNCT	_	_
+10	и	CONJ	Rus=Yes	и
+11	чеснок	NOUN	Case=Nom|Number=Sing|Rus=Yes	чеснок
+12	,	PUNCT	_	_
+13	и	CONJ	Rus=Yes	и
+14	помидорат	NOUN	Case=Nom|Number=Plur|Rus=Yes	помидор
+15	,	PUNCT	_	_
+16	стак	VERB	Mood=Imp|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Transitivity=Tr	шить
+17	тов	ADV	AdvType=Pron	туда
+18	.	PUNCT	_	_
+------------
+Директорсь В.И.Макаровась мярьгсь, тя, кле, нинге аф сембось.
+1	Директорсь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	директор
+2	В.И.Макаровась	PROPN	Case=Nom|Definite=Def|Number=Sing|PropnType=FamN	_
+3	мярьгсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr	сказать
+4	,	PUNCT	_	_
+5	тя	PRON	Case=Nom|Number=Sing	это
+6	,	PUNCT	_	_
+7	кле	ADV	AdvType=Parenth	говорят, дескать, мол
+8	,	PUNCT	_	_
+9	нинге	ADV		ещё
+10	аф	AUX	Polarity=Neg	не
+11	сембось	PRON	Case=Nom|Definite=Def|Number=Sing	всё
+12	.	PUNCT	_	_
+------------
+Тяда башка паксяв озафтоме гектарда лама модамарь.
+1	Тяда	PRON	Case=Abl|Number=Sing	это
+2	башка	ADP	AdpType=Post	кроме, помимо
+3	паксяв	NOUN	Case=Lat|Number=Sing	поле
+4	озафтоме	VERB	Caus=Yes|Conjug=NonObj|Number[subj]=Plur|Person[subj]=1|Tense=Prt1|Transitivity=Intr	сесть
+5	гектарда	NOUN	Case=Abl|Number=Sing|Rus=Yes	гектар
+6	лама	ADV		много
+7	модамарь	NOUN	Case=Nom|Number=Sing	картошка
+8	.	PUNCT	_	_
+##башка ADP
+------------
+Сембе паксянь тефнень тиендьсаськ эсь вийсонк.
+1	Сембе	PRON	Case=Nom|Number=Sing	всё
+2	паксянь	ADJ		полевой
+3	тефнень	NOUN	Case=Gen|Definite=Def|Number=Plur	дело
+4	тиендьсаськ	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Transitivity=Tr	сделать
+5	эсь	PRON	Case=Nom|PronType=Refl	свой
+6	вийсонк	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	сила, могущество
+7	.	PUNCT	_	_
+------------
+Тонафниеньконь тяни ули возможностьсна кемокстамс тефнень практикаса и ярхцсемс школьнай столовайса свежай фруктада и овощада кизоньберьф.
+
+1	Тонафниеньконь	X	_	_
+2	тяни	ADV		сейчас
+3	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+4	возможностьсна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	возможность
+5	кемокстамс	VERB	Transitivity=Tr|VerbForm=Inf	укрепить
+6	тефнень	NOUN	Case=Gen|Definite=Def|Number=Plur	дело
+7	практикаса	NOUN	Case=Ine|Number=Sing|Rus=Yes	практика
+8	и	CONJ	Rus=Yes	и
+9	ярхцсемс	X	_	_
+10	школьнай	ADJ	Rus=Yes	школьный
+11	столовайса	NOUN	Case=Ine|Number=Sing|Rus=Yes	столовый
+12	свежай	ADJ	Rus=Yes	свежий
+13	фруктада	NOUN	Case=Abl|Number=Sing|Rus=Yes	фрукт
+14	и	CONJ	Rus=Yes	и
+15	овощада	NOUN	Case=Abl|Number=Sing|Rus=Yes	овощ
+16	кизоньберьф	ADV		весь год
+17	.	PUNCT	_	_
+18	\n	PUNCT	_	_
+------------
+Сянь эса, што тячи «Мокшень правдась» Кочетовкаса мушендсы эсь лувиенц, тяфта жа аф емла путкссна тястонь хозяйствать вятиенц В.Н.Асташкинонь и Кочетовка велень администрациять оцюнянц М.М.Дубининать.
+1	Сянь	PRON	Case=Gen|Number=Sing	тот, та, то
+2	эса	ADP	AdpType=Post	там
+3	,	PUNCT	_	_
+4	што	CONJ	Rus=Yes	что
+5	тячи	ADV		сегодня
+6	«	PUNCT	_	_
+7	Мокшень	ADJ		мокшанский
+8	правдась	PROPN	Case=Nom|Definite=Def|Number=Sing	Правда
+9	»	PUNCT	_	_
+10	Кочетовкаса	PROPN	Case=Ine|Number=Sing|PropnType=TopN	Кочетовка
+11	мушендсы	VERB	Aspect=Iter|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	найти
+12	эсь	PRON	Case=Nom|PronType=Refl	свой
+13	лувиенц	X	_	_
+14	,	PUNCT	_	_
+15	тяфта	ADV	AdvType=Pron	так, таким образом
+16	жа	PART	Rus=Yes	же, именно, ведь
+17	аф	AUX	Polarity=Neg	не
+18	емла	ADJ		маленький
+19	путкссна	X	_	_
+20	тястонь	ADJ		местный, здешний
+21	хозяйствать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	хозяйство
+22	вятиенц	X	_	_
+23	В.Н.Асташкинонь	PROPN	Case=Gen|Number=Sing|PropnType=FamN	_
+24	и	CONJ	Rus=Yes	и
+25	Кочетовка	PROPN	Case=Nom|Number=Sing|PropnType=TopN	Кочетовка
+26	велень	NOUN	Case=Gen|Number=Sing	село, селение
+27	администрациять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	администрация
+28	оцюнянц	ADJ	Case=Gen|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	крупненький, старшенький
+29	М.М.Дубининать	PROPN	Case=Gen|Definite=Def|Number=Sing|PropnType=FamN	_
+30	.	PUNCT	_	_
+##оцюня Anim, -dimin?
+------------
+Вов ни мзяра киза ня ломаттнень лезксснон вельде газетаньке пачкотькшни велеряйхненди.
+1	Вов	PART		вот
+2	ни	PART		уж, уже
+3	мзяра	ADV	AdvType=Pron	сколько
+4	киза	NOUN	Case=Nom|Number=Sing	лето; год
+5	ня	PRON	Case=Nom|Number=Sing	эти
+6	ломаттнень	NOUN	Case=Gen|Definite=Def|Number=Plur	человек
+7	лезксснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	помощь
+8	вельде	ADP	AdpType=Post	посредством, путём
+9	газетаньке	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	газета
+10	пачкотькшни	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	дойти; поспеть
+11	велеряйхненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	селянин, житель села
+12	.	PUNCT	_	_
+##велеряйхненди def
+------------
+Синь шарьхкодьсазь, што мастор лангса фкя и сяка мокшень изданиясь ванфтома аф кати-кинди, а тейнек, мокшетненди.
+
+1	Синь	PRON	Case=Nom|Number=Plur|Person=3	они
+2	шарьхкодьсазь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	понять
+3	,	PUNCT	_	_
+4	што	CONJ	Rus=Yes	что
+5	мастор	NOUN	Case=Nom|Number=Sing	страна, государство
+6	лангса	ADP	AdpType=Post	на
+7	фкя	NUM		один
+8	и	CONJ	Rus=Yes	и
+9	сяка	PRON	Case=Nom|Number=Sing	тот же самый; всё равно
+10	мокшень	ADJ		мокшанский
+11	изданиясь	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	издание
+12	ванфтома	VERB	Case=Nom|Caus=Yes|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	смотреть
+13	аф	AUX	Polarity=Neg	не
+14	кати	PART		неизвестно, не знаю
+15	-	PUNCT	_	_
+16	кинди	PRON	Case=Dat|Number=Sing	кто
+17	,	PUNCT	_	_
+18	а	CONJ	Rus=Yes	а
+19	тейнек	PRON	Case=Dat|Number=Plur|Person=1	мы
+20	,	PUNCT	_	_
+21	мокшетненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	мокша, мокшанин
+22	.	PUNCT	_	_
+23	\n	PUNCT	_	_
+##кинди
+------------
+Кода азозе Василий Николаевич Асташкин, «Мокшень правдась» теенза лама киза ульсь и тячемс ляткшни цебярь ялгакс.
+1	Кода	ADV	AdvType=Pron	как
+2	азозе	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	сказать
+3	Василий	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Василий
+4	Николаевич	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Николаевич
+5	Асташкин	PROPN	Case=Nom|Number=Sing|PropnType=FamN	Асташкин
+6	,	PUNCT	_	_
+7	«	PUNCT	_	_
+8	Мокшень	ADJ		мокшанский
+9	правдась	PROPN	Case=Nom|Definite=Def|Number=Sing	Правда
+10	»	PUNCT	_	_
+11	теенза	PRON	Case=Dat|Number=Sing|Person=3	он, она, оно
+12	лама	ADJ		многий
+13	киза	NOUN	Case=Nom|Number=Sing	лето; год
+14	ульсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr	быть
+15	и	CONJ	Rus=Yes	и
+16	тячемс	ADV		до сих пор
+17	ляткшни	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	остаться
+18	цебярь	ADJ		хороший
+19	ялгакс	NOUN	Animacy=Hum|Case=Tra|Number=Sing	друг, товарищ
+20	.	PUNCT	_	_
+------------
+Кле, рабочаеньковок сонь оцю мяльса тяштьфнесазь и етка пингста лувондсазь.
+1	Кле	ADV	AdvType=Parenth	говорят, дескать, мол
+2	,	PUNCT	_	_
+3	рабочаеньковок	X	_	_
+4	сонь	PRON	Case=Gen|Number=Sing|Person=3	он, она, оно
+5	оцю	ADJ		бошьшой; главный; старший
+6	мяльса	NOUN	Case=Ine|Number=Sing	желание, охота
+7	тяштьфнесазь	VERB	Caus=Yes|Mult=Yes|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	писать
+8	и	CONJ	Rus=Yes	и
+9	етка	NOUN	Case=Nom|Number=Sing	досуг
+10	пингста	NOUN	Case=Ela|Number=Sing	время
+11	лувондсазь	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	читать
+12	.	PUNCT	_	_
+------------
+Мяльс тушендыхть печатлакшневи пеетькс пакшкятне.
+1	Мяльс	NOUN	Case=Ill|Number=Sing	желание, охота
+2	тушендыхть	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	уйти
+3	печатлакшневи	VERB	Aspect=Iter|Rus=Yes|Transitivity=Tr|VerbForm=Part|Voice=Pass	печатать
+4	пеетькс	X	_	_
+5	пакшкятне	NOUN	Case=Nom|Definite=Def|Derivation=Dimin|Number=Plur	кусочек
+6	.	PUNCT	_	_
+##пакшкятне def
+------------
+Кой-коста лувомдост меле сашендовихть мянь работама кошярямс, ламос пеетькшнихть.
+1	Кой-коста	ADV	AdvType=Pron	иногда
+2	лувомдост	X	_	_
+3	меле	ADP	AdpType=Post	после
+4	сашендовихть	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr|Voice=Pass	прийти
+5	мянь	VERB	Connegative=Yes|Transitivity=Tr	убежать; избежать
+6	работама	VERB	Case=Nom|Number=Sing|Rus=Yes|Transitivity=Tr|VerbForm=Vnoun	работать
+7	кошярямс	X	_	_
+8	,	PUNCT	_	_
+9	ламос	ADV		долго
+10	пеетькшнихть	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	улыбыться; шутить
+11	.	PUNCT	_	_
+------------
+А «Минь усадьбаньке» рубрика ала лисенди советтнень-меснень кочксесаськ башка, нолясаськ тевс перень-серонь видемста-касфнемста, ванфтомста.
+1	А	CONJ	Rus=Yes	а
+2	«	PUNCT	_	_
+3	Минь	PRON	Case=Gen|Number=Plur|Person=1	мы
+4	усадьбаньке	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	усадьба
+5	»	PUNCT	_	_
+6	рубрика	NOUN	Case=Nom|Number=Sing|Rus=Yes	рубрика
+7	ала	ADP	AdpType=Post	внизу
+8	лисенди	VERB	Aspect=Iter|Transitivity=Intr|VerbForm=Part	выйти; оказаться
+9	советтнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	совет
+10	-	PUNCT	_	_
+11	меснень	PRON	Case=Gen|Definite=Def|Number=Plur	что
+12	кочксесаськ	X	_	_
+13	башка	ADV		отдельно, порознь
+14	,	PUNCT	_	_
+15	нолясаськ	X	_	_
+16	тевс	NOUN	Case=Ill|Number=Sing	дело
+17	перень	NOUN	Case=Gen|Number=Sing	огород
+18	-	PUNCT	_	_
+19	серонь	NOUN	Case=Gen|Number=Sing	зерно, хлеб; урожай
+20	видемста	VERB	Case=Ela|Transitivity=Tr|VerbForm=Vnoun	сеять
+21	-	PUNCT	_	_
+22	касфнемста	VERB	Case=Ela|Caus=Yes|Mult=Yes|Transitivity=Intr|VerbForm=Vnoun	расти, вырасти
+23	,	PUNCT	_	_
+24	ванфтомста	VERB	Case=Ela|Caus=Yes|Transitivity=Tr|VerbForm=Vnoun	смотреть
+25	.	PUNCT	_	_
+##лисенди ptcp,башка ADV, -мста inf?
+------------
+Сяс велесонк тя газетать фалу учсазь и оцю мяльса лувондсазь.
+
+1	Сяс	ADV	AdvType=Pron	поэтому
+2	велесонк	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	село, селение
+3	тя	PRON	Case=Nom|Number=Sing	это
+4	газетать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	газета
+5	фалу	ADV		всегда, постоянно
+6	учсазь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	ждать
+7	и	CONJ	Rus=Yes	и
+8	оцю	ADJ		бошьшой; главный; старший
+9	мяльса	NOUN	Case=Ine|Number=Sing	желание, охота
+10	лувондсазь	VERB	Aspect=Iter|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	читать
+11	.	PUNCT	_	_
+12	\n	PUNCT	_	_
+------------
+Улема, тячи Мордовияса аш стама ломань, кона ашезе куленде Кочетовскяй народнай хорть, конанди руководителькс 1965 кизоста сявомок МАССР-нь культурань Заслуженнай работниксь Анна Трофимовна Асташкинась.
+1	Улема	ADV	AdvType=Parenth	кажется, вероятно, видимо
+2	,	PUNCT	_	_
+3	тячи	ADV		сегодня
+4	Мордовияса	PROPN	Case=Ine|Number=Sing|PropnType=TopN	Мордовия
+5	аш	AUX		нет
+6	стама	PRON	Case=Nom|Number=Sing	такой
+7	ломань	NOUN	Case=Nom|Number=Sing	человек
+8	,	PUNCT	_	_
+9	кона	PRON	Case=Nom|Number=Sing	который; какой
+10	ашезе	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	не, нет
+11	куленде	VERB	Aspect=Iter|Connegative=Yes|Transitivity=Tr	слышать
+12	Кочетовскяй	ADJ	Rus=Yes	_
+13	народнай	ADJ	Rus=Yes	народный
+14	хорть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	хор
+15	,	PUNCT	_	_
+16	конанди	PRON	Case=Dat|Number=Sing	который; какой
+17	руководителькс	NOUN	Animacy=Hum|Case=Tra|Number=Sing|Rus=Yes	руководитель
+18	1965	NUM		_
+19	кизоста	NOUN	Case=Ela|Number=Sing	лето; год
+20	сявомок	VERB	CvbType=Simult|Transitivity=Tr|VerbForm=Conv	взять
+21	МАССР-нь	PROPN	Abbr=Yes|Case=Gen|Number=Sing|PropnType=TopN	Мордовская АССР
+22	культурань	NOUN	Case=Gen|Number=Sing|Rus=Yes	культура
+23	Заслуженнай	ADJ	Rus=Yes	заслуженный
+24	работниксь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	работник
+25	Анна	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Анна
+26	Трофимовна	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Трофимовна
+27	Асташкинась	PROPN	Case=Nom|Definite=Def|Number=Sing|PropnType=FamN	Асташкина
+28	.	PUNCT	_	_
+##ашезе neg pst1?
+------------
+Сон аф аньцек поладозе ингольдень руководительть Р.Г.Климкинать тевонц, но и ламода виияфтозе.
+1	Сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+2	аф	AUX	Polarity=Neg	не
+3	аньцек	ADV		только; только что
+4	поладозе	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	удлинить, надставить
+5	ингольдень	ADJ		прежний, бывший; передний
+6	руководительть	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Sing|Rus=Yes	руководитель
+7	Р.Г.Климкинать	PROPN	Case=Gen|Definite=Def|Number=Sing|PropnType=FamN	_
+8	тевонц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	дело
+9	,	PUNCT	_	_
+10	но	CONJ	Rus=Yes	но
+11	и	CONJ	Rus=Yes	и
+12	ламода	ADV		намного
+13	виияфтозе	VERB	Caus=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Intr	усилиться
+14	.	PUNCT	_	_
+------------
+Мрдафтозень эряфс юкстаф мокшень моротнень и тиезень синь нинге сядонга мялень кеподикс.
+1	Мрдафтозень	VERB	Caus=Yes|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Intr	вернуться
+2	эряфс	NOUN	Case=Ill|Number=Sing	жизнь
+3	юкстаф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	забыть; оставить
+4	мокшень	ADJ		мокшанский
+5	моротнень	NOUN	Case=Gen|Definite=Def|Number=Plur	песня
+6	и	CONJ	Rus=Yes	и
+7	тиезень	VERB	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	сделать
+8	синь	PRON	Case=Gen|Number=Plur|Person=3	они
+9	нинге	ADV		ещё
+10	сядонга	PART		больше, ещё больше
+11	мялень	NOUN	Case=Gen|Number=Sing	желание, охота
+12	кеподикс	X	_	_
+13	.	PUNCT	_	_
+------------
+Тячи хорть репертуарса мокшень обрядовай, бытовой, свадебнай морот, частушкат.
+1	Тячи	ADV		сегодня
+2	хорть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	хор
+3	репертуарса	NOUN	Case=Ine|Number=Sing|Rus=Yes	репертуар
+4	мокшень	ADJ		мокшанский
+5	обрядовай	ADJ	Rus=Yes	_
+6	,	PUNCT	_	_
+7	бытовой	ADJ	Rus=Yes	_
+8	,	PUNCT	_	_
+9	свадебнай	ADJ	Rus=Yes	_
+10	морот	NOUN	Case=Nom|Number=Plur	песня
+11	,	PUNCT	_	_
+12	частушкат	X	_	_
+13	.	PUNCT	_	_
+------------
+А кда азондомс тя коллективть сембе уликс титулонзон и казнензон колга, конат сатфтольхть конкурснень и выступлениятнень пингста Россияса и омба масторса, аф саты, улема, газетань страницаське.
+1	А	CONJ	Rus=Yes	а
+2	кда	CONJ		если
+3	азондомс	VERB	Aspect=Iter|Transitivity=Tr|VerbForm=Inf	сказать
+4	тя	PRON	Case=Nom|Number=Sing	это
+5	коллективть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	коллектив
+6	сембе	PRON	Case=Nom|Number=Sing	всё
+7	уликс	ADJ		имеющийся
+8	титулонзон	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3|Rus=Yes	титул
+9	и	CONJ	Rus=Yes	и
+10	казнензон	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	подарок
+11	колга	ADP	AdpType=Post	о
+12	,	PUNCT	_	_
+13	конат	PRON	Case=Nom|Number=Plur	который; какой
+14	сатфтольхть	VERB	Case=Nom|Number=Plur|Number[subj]=Plur|Person[subj]=3|PtcpType=Res|Tense=Prt1|Transitivity=Tr|VerbForm=Part	догнать
+15	конкурснень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	конкурс
+16	и	CONJ	Rus=Yes	и
+17	выступлениятнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	выступление
+18	пингста	NOUN	Case=Ela|Number=Sing	время
+19	Россияса	PROPN	Case=Ine|Number=Sing|PropnType=TopN	Россия
+20	и	CONJ	Rus=Yes	и
+21	омба	ADJ		другой
+22	масторса	NOUN	Case=Ine|Number=Sing	страна, государство
+23	,	PUNCT	_	_
+24	аф	AUX	Polarity=Neg	не
+25	саты	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	догнать
+26	,	PUNCT	_	_
+27	улема	ADV	AdvType=Parenth	кажется, вероятно, видимо
+28	,	PUNCT	_	_
+29	газетань	NOUN	Case=Gen|Number=Sing|Rus=Yes	газета
+30	страницаське	NOUN	Case=Nom|Clitic=Add|Definite=Def|Number=Sing|Rus=Yes	страница
+31	.	PUNCT	_	_
+##уликс ptcp? аф!
+------------
+Надиятама, што тя велеса сяда товга ванфтовихть мокшень койхне-обуцятне, кяльсь.
+1	Надиятама	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=1|Rus=Yes|Tense=Pres|Transitivity=Intr	надеяться
+2	,	PUNCT	_	_
+3	што	CONJ	Rus=Yes	что
+4	тя	PRON	Case=Nom|Number=Sing	это
+5	велеса	NOUN	Case=Ine|Number=Sing	село, селение
+6	сяда	PART		самый
+7	товга	ADV	AdvType=Pron|Clitic=Add	туда
+8	ванфтовихть	VERB	Caus=Yes|Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	смотреть
+9	мокшень	ADJ		мокшанский
+10	койхне	NOUN	Case=Nom|Definite=Def|Number=Plur	обычай; привычка
+11	-	PUNCT	_	_
+12	обуцятне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	обычай
+13	,	PUNCT	_	_
+14	кяльсь	NOUN	Case=Nom|Definite=Def|Number=Sing	язык
+15	.	PUNCT	_	_
+##койхне def
+------------
+Сяда сидеста ульцятнень эзга кулевихть идень вайгяльхть и седиень таколфты мокшень морот.
+
+1	Сяда	PART		самый
+2	сидеста	ADV		часто
+3	ульцятнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	улица
+4	эзга	ADP	AdpType=Post	по
+5	кулевихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	слышать
+6	идень	ADJ		детский
+7	вайгяльхть	NOUN	Case=Nom|Number=Plur	голос
+8	и	CONJ	Rus=Yes	и
+9	седиень	NOUN	Case=Gen|NounType=BodyPart|Number=Sing	сердце
+10	таколфты	VERB	Caus=Yes|Transitivity=Intr|VerbForm=Part	беспокоиться
+11	мокшень	ADJ		мокшанский
+12	морот	NOUN	Case=Nom|Number=Plur	песня
+13	.	PUNCT	_	_
+14	\n	PUNCT	_	_
+##таколфты ptcp
+------------
+Велеряйхне маряйхть гордость эсь хорснон инкса.
+1	Велеряйхне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	селянин, житель села
+2	маряйхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr	слышать; чувствовать
+3	гордость	NOUN	Case=Nom|Number=Sing|Rus=Yes	гордость
+4	эсь	PRON	Case=Nom|PronType=Refl	свой
+5	хорснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	хор
+6	инкса	ADP	AdpType=Post	за
+7	.	PUNCT	_	_
+------------
+И ули мезенкса.
+1	И	CONJ	Rus=Yes	и
+2	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+3	мезенкса	PRON	Case=Cau|Number=Sing	что
+4	.	PUNCT	_	_
+------------
+Кодгемоньда лама киза ни сон кемоста ванфнесы народнай хоровой искусствать и маштозь пачфнесы республикасонк эряйхненди и ичкоздень раднянь-плямань народоньконди.
+1	Кодгемоньда	NUM	Case=Abl|Number=Sing	шестьдесят
+2	лама	ADV		много
+3	киза	NOUN	Case=Nom|Number=Sing	лето; год
+4	ни	PART		уж, уже
+5	сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+6	кемоста	ADV		крепко, туго; сильно, очень
+7	ванфнесы	VERB	Caus=Yes|Mult=Yes|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	смотреть
+8	народнай	ADJ	Rus=Yes	народный
+9	хоровой	ADJ	Rus=Yes	хоровой
+10	искусствать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	искусство
+11	и	CONJ	Rus=Yes	и
+12	маштозь	ADV		умело, со знанием дела
+13	пачфнесы	X	_	_
+14	республикасонк	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	республика
+15	эряйхненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	житель
+16	и	CONJ	Rus=Yes	и
+17	ичкоздень	ADJ		дальний
+18	раднянь	NOUN	Animacy=Hum|Case=Gen|Number=Sing|Rus=Yes	родственник
+19	-	PUNCT	_	_
+20	плямань	NOUN	Case=Gen|Number=Sing	род, семья
+21	народоньконди	NOUN	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	народ
+22	.	PUNCT	_	_
+------------
+Эряви азомс сянь колгавок, што Кочетовкась—талантонь ширде козя веле.
+1	Эряви	AUX		нужно, надо
+2	азомс	VERB	Transitivity=Tr|VerbForm=Inf	сказать
+3	сянь	PRON	Case=Gen|Number=Sing	тот, та, то
+4	колгавок	ADP	AdpType=Post|Clitic=Add|Typo=Yes	о
+5	,	PUNCT	_	_
+6	што	CONJ	Rus=Yes	что
+7	Кочетовкась—талантонь	X	_	_
+8	ширде	NOUN	Case=Abl|Number=Sing	сторона
+9	козя	ADJ		богатый, обильный
+10	веле	NOUN	Case=Nom|Number=Sing	село, селение
+11	.	PUNCT	_	_
+##ширде NOUN, пробелы
+------------
+Мзярда корхтамась тушенды велеста лисьф содаф ломаттнень колга, тястонь эряйхне васендакиге пара мяльса лятфнесазь Валерий Алексеевич Кечкинонь, кона лама киза мельцек сатфксонь сатозь вятьсы республикань Госсобраниять.
+1	Мзярда	ADV	AdvType=Pron	когда
+2	корхтамась	VERB	Case=Nom|Definite=Def|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	говорить
+3	тушенды	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	уйти
+4	велеста	NOUN	Case=Ela|Number=Sing	село, селение
+5	лисьф	VERB	PtcpType=Res|Transitivity=Intr|VerbForm=Part	выйти; оказаться
+6	содаф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	знать
+7	ломаттнень	NOUN	Case=Gen|Definite=Def|Number=Plur	человек
+8	колга	ADP	AdpType=Post	о
+9	,	PUNCT	_	_
+10	тястонь	ADJ		местный, здешний
+11	эряйхне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	житель
+12	васендакиге	ADV		раньше, в первую очередь
+13	пара	ADJ		хороший, добрый
+14	мяльса	NOUN	Case=Ine|Number=Sing	желание, охота
+15	лятфнесазь	X	_	_
+16	Валерий	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Валерий
+17	Алексеевич	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Алексеевич
+18	Кечкинонь	PROPN	Case=Gen|Number=Sing|PropnType=FamN	_
+19	,	PUNCT	_	_
+20	кона	PRON	Case=Nom|Number=Sing	который; какой
+21	лама	ADJ		многий
+22	киза	NOUN	Case=Nom|Number=Sing	лето; год
+23	мельцек	ADV		друг за другом
+24	сатфксонь	NOUN	Case=Gen|Number=Sing	достижение, успех
+25	сатозь	VERB	Transitivity=Tr|VerbForm=Conv	догнать
+26	вятьсы	VERB	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Transitivity=Tr	вести
+27	республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+28	Госсобраниять	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	госсобрание
+29	.	PUNCT	_	_
+##эряйхне def
+------------
+Кле, сон минь прянь шнама вастоньке.
+1	Кле	ADV	AdvType=Parenth	говорят, дескать, мол
+2	,	PUNCT	_	_
+3	сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+4	минь	PRON	Case=Gen|Number=Plur|Person=1	мы
+5	прянь	NOUN	Case=Gen|NounType=BodyPart|Number=Sing	голова
+6	шнама	VERB	Case=Nom|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	хвалить
+7	вастоньке	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	место
+8	.	PUNCT	_	_
+------------
+Валерий Алексеевич тячемс кирди кеме соткст шачема-касома веленц мархта, эрь кизоня сашенды земляконзон мархта васетькшнема, лезни теест и пара советса, и тевса.
+
+1	Валерий	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Валерий
+2	Алексеевич	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Алексеевич
+3	тячемс	ADV		до сих пор
+4	кирди	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	держать
+5	кеме	ADJ		крепкий, здоровый
+6	соткст	NOUN	Case=Nom|Number=Plur	связь; узел
+7	шачема	VERB	Case=Nom|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	родиться
+8	-	PUNCT	_	_
+9	касома	VERB	Case=Nom|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	расти, вырасти
+10	веленц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	село, селение
+11	мархта	ADP	AdpType=Post	с
+12	,	PUNCT	_	_
+13	эрь	ADJ		каждый, любой, всякий
+14	кизоня	NOUN	Case=Temp|Number=Sing	лето; год
+15	сашенды	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	прийти
+16	земляконзон	NOUN	Animacy=Hum|Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3|Rus=Yes	земляк
+17	мархта	ADP	AdpType=Post	с
+18	васетькшнема	X	_	_
+19	,	PUNCT	_	_
+20	лезни	X	_	_
+21	теест	PRON	Case=Dat|Number=Plur|Person=3	они
+22	и	CONJ	Rus=Yes	и
+23	пара	ADJ		хороший, добрый
+24	советса	NOUN	Case=Ine|Number=Sing|Rus=Yes	совет
+25	,	PUNCT	_	_
+26	и	CONJ	Rus=Yes	и
+27	тевса	NOUN	Case=Ine|Number=Sing	дело
+28	.	PUNCT	_	_
+29	\n	PUNCT	_	_
+------------
+А мзяра тяста лиссь врачта, лия специальностень содаф ломаньда, нльне лувомска стака.
+1	А	CONJ	Rus=Yes	а
+2	мзяра	ADV	AdvType=Pron	сколько
+3	тяста	ADV	AdvType=Pron	отсюда
+4	лиссь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Intr	выйти; оказаться
+5	врачта	NOUN	Animacy=Hum|Case=Abl|Number=Sing|Rus=Yes	врач
+6	,	PUNCT	_	_
+7	лия	ADJ		другой, прочий
+8	специальностень	NOUN	Case=Gen|Number=Sing|Rus=Yes	специальность
+9	содаф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	знать
+10	ломаньда	NOUN	Case=Abl|Number=Sing	человек
+11	,	PUNCT	_	_
+12	нльне	PART		даже
+13	лувомска	VERB	Clitic=Add|Transitivity=Tr|VerbForm=Inf	читать
+14	стака	ADJ		тяжёлый
+15	.	PUNCT	_	_
+------------
+Сембе синь музь эряфса вастснон и седикс-ваймокс трудендамаснон вельде касфнесазь Кочетовкать славанц.
+
+1	Сембе	PRON	Case=Nom|Number=Sing	всё
+2	синь	PRON	Case=Nom|Number=Plur|Person=3	они
+3	музь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	найти
+4	эряфса	NOUN	Case=Ine|Number=Sing	жизнь
+5	вастснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	место
+6	и	CONJ	Rus=Yes	и
+7	седикс-ваймокс	ADV		откровенно
+8	трудендамаснон	VERB	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes|Transitivity=Intr|VerbForm=Vnoun	трудиться
+9	вельде	ADP	AdpType=Post	посредством, путём
+10	касфнесазь	VERB	Caus=Yes|Mult=Yes|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Intr	расти, вырасти
+11	Кочетовкать	PROPN	Case=Gen|Definite=Def|Number=Sing|PropnType=TopN	Кочетовка
+12	славанц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	слава
+13	.	PUNCT	_	_
+14	\n	PUNCT	_	_
+##эряфса Noun
+------------
+А.ШИШКАНОВ.
+
+1	А.ШИШКАНОВ	X	_	_
+2	.	PUNCT	_	_
+3	\n	PUNCT	_	_
+------------
+МОРДОВСКЯЙ ГОСУНИВЕРСИТЕТСЬ ТЕРДИ ТОНАФНЕМА
+
+1	МОРДОВСКЯЙ	ADJ	Rus=Yes	мордовский
+2	ГОСУНИВЕРСИТЕТСЬ	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	госуниверситет
+3	ТЕРДИ	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	пригласить, позвать
+4	ТОНАФНЕМА	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+5	\n	PUNCT	_	_
+------------
+Аф лама лядонды ся пингти, мзярда республикань школатнень эса ушедыхть выпускной экзаметтне.
+1	Аф	AUX	Polarity=Neg	не
+2	лама	ADV		много
+3	лядонды	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	остаться
+4	ся	PRON	Case=Nom|Number=Sing	тот, та, то
+5	пингти	NOUN	Case=Dat|Definite=Def|Number=Sing	время
+6	,	PUNCT	_	_
+7	мзярда	ADV	AdvType=Pron	когда
+8	республикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	республика
+9	школатнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	школа
+10	эса	ADP	AdpType=Post	там
+11	ушедыхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr	начать; наступить
+12	выпускной	ADJ	Rus=Yes	_
+13	экзаметтне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	экзамен
+14	.	PUNCT	_	_
+------------
+Тежятть од ломаненди сави тиемс эрявикс аськолкс—кочкамс профессия, штоба сяда тов мумс вастснон эряфса.
+1	Тежятть	NUM	Case=Nom|Number=Plur	тысяча
+2	од	ADJ		молодой, новый
+3	ломаненди	NOUN	Case=Dat|Number=Sing	человек
+4	сави	AUX		надо, нужно
+5	тиемс	VERB	Transitivity=Tr|VerbForm=Inf	сделать
+6	эрявикс	ADJ		нужный, необходимый
+7	аськолкс—кочкамс	X	_	_
+8	профессия	NOUN	Case=Nom|Number=Sing|Rus=Yes	профессия
+9	,	PUNCT	_	_
+10	штоба	CONJ	Rus=Yes	чтобы
+11	сяда	PART		самый
+12	тов	ADV	AdvType=Pron	туда
+13	мумс	VERB	Transitivity=Tr|VerbForm=Inf	найти
+14	вастснон	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	место
+15	эряфса	NOUN	Case=Ine|Number=Sing	жизнь
+16	.	PUNCT	_	_
+------------
+Коза молемс тонафнема?
+1	Коза	ADV	AdvType=Pron	куда, где
+2	молемс	VERB	Transitivity=Intr|VerbForm=Inf	идти
+3	тонафнема	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+4	?	PUNCT	_	_
+------------
+Республикасонк лама стирня и цераня азонкшнихть мяль поступамс Н.П.Огаревонь лемса Мордовскяй государственнай университету.
+1	Республикасонк	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	республика
+2	лама	ADJ		многий
+3	стирня	NOUN	Animacy=Hum|Case=Nom|Derivation=Dimin|Number=Sing	девочка
+4	и	CONJ	Rus=Yes	и
+5	цераня	NOUN	Animacy=Hum|Case=Nom|Derivation=Dimin|Number=Sing	паренёк; сынок
+6	азонкшнихть	X	_	_
+7	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+8	поступамс	VERB	Rus=Yes|Transitivity=Intr|VerbForm=Inf	поступить
+9	Н.П.Огаревонь	PROPN	Case=Gen|Number=Sing|PropnType=FamN	_
+10	лемса	NOUN	Case=Ine|Number=Sing	имя
+11	Мордовскяй	ADJ	Rus=Yes	мордовский
+12	государственнай	ADJ	Rus=Yes	государственный
+13	университету	NOUN	Case=Lat|Number=Sing|Rus=Yes	университет
+14	.	PUNCT	_	_
+------------
+Сяс тячи мяленьке азондомс сянь колга, мезень одня сави васьфтемс 2009 кизонь абитуриенттненди.
+1	Сяс	ADV	AdvType=Pron	поэтому
+2	тячи	ADV		сегодня
+3	мяленьке	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	желание, охота
+4	азондомс	VERB	Aspect=Iter|Transitivity=Tr|VerbForm=Inf	сказать
+5	сянь	PRON	Case=Gen|Number=Sing	тот, та, то
+6	колга	ADP	AdpType=Post	о
+7	,	PUNCT	_	_
+8	мезень	PRON	Case=Gen|Number=Sing	что
+9	одня	ADJ	Derivation=Dimin	молоденький, новенький
+10	сави	AUX		надо, нужно
+11	васьфтемс	VERB	Transitivity=Tr|VerbForm=Inf	встретить
+12	2009	NUM		_
+13	кизонь	NOUN	Case=Gen|Number=Sing	лето; год
+14	абитуриенттненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur|Rus=Yes	абитуриент
+15	.	PUNCT	_	_
+##мезень одня
+------------
+Тянь коряс корреспондентоньконь кизефксонзон лангс отвечась Н.П.Огаревонь лемса МГУ-нь приемнай комиссиянь ответственнай секретарсь П.Ф.Потапов.
+
+1	Тянь	PRON	Case=Gen|Number=Sing	это
+2	коряс	ADP	AdpType=Post	по; в направлении
+3	корреспондентоньконь	NOUN	Animacy=Hum|Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	корреспондент
+4	кизефксонзон	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	вопрос
+5	лангс	ADP	AdpType=Post	на
+6	отвечась	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Rus=Yes|Tense=Prt1|Transitivity=Tr	ответить
+7	Н.П.Огаревонь	PROPN	Case=Gen|Number=Sing|PropnType=FamN	_
+8	лемса	NOUN	Case=Ine|Number=Sing	имя
+9	МГУ-нь	PROPN	Abbr=Yes|Case=Gen|Number=Sing|Rus=Yes	МГУ (Мордовский/Московский государственный университет)
+10	приемнай	ADJ	Rus=Yes	приёмный
+11	комиссиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	комиссия
+12	ответственнай	ADJ	Rus=Yes	ответственный
+13	секретарсь	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Rus=Yes	секретарь
+14	П.Ф.Потапов	PROPN	Case=Nom|Number=Sing|PropnType=FamN	_
+15	.	PUNCT	_	_
+16	\n	PUNCT	_	_
+------------
+—Павел Федорович, азонтт аф лама университету поступамань правилатнень колга.
+
+1	—	PUNCT	_	_
+2	Павел	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Павел
+3	Федорович	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Фёдорович
+4	,	PUNCT	_	_
+5	азонтт	X	_	_
+6	аф	AUX	Polarity=Neg	не
+7	лама	ADV		много
+8	университету	NOUN	Case=Lat|Number=Sing|Rus=Yes	университет
+9	поступамань	VERB	Case=Gen|Number=Sing|Rus=Yes|Transitivity=Intr|VerbForm=Vnoun	поступить
+10	правилатнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	правила
+11	колга	ADP	AdpType=Post	о
+12	.	PUNCT	_	_
+13	\n	PUNCT	_	_
+------------
+—Тядде синь аф ламода лият.
+1	—	PUNCT	_	_
+2	Тядде	ADV		в этом году
+3	синь	PRON	Case=Nom|Number=Plur|Person=3	они
+4	аф	AUX	Polarity=Neg	не
+5	ламода	ADV		намного
+6	лият	ADJ	Case=Nom|Number=Plur	другой, прочий
+7	.	PUNCT	_	_
+------------
+Эрь предметть коряс абитуриенттненди сави максомс единай государственнай экзамен.
+1	Эрь	ADJ		каждый, любой, всякий
+2	предметть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	предмет
+3	коряс	ADP	AdpType=Post	по; в направлении
+4	абитуриенттненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur|Rus=Yes	абитуриент
+5	сави	AUX		надо, нужно
+6	максомс	VERB	Transitivity=Tr|VerbForm=Inf	дать
+7	единай	ADJ	Rus=Yes	единый
+8	государственнай	ADJ	Rus=Yes	государственный
+9	экзамен	NOUN	Case=Nom|Number=Sing|Rus=Yes	экзамен
+10	.	PUNCT	_	_
+------------
+Кочкаф баллхнень коряс содави, кие кармай тонафнема тя или тона факультетса.
+1	Кочкаф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	собрать, выбрать
+2	баллхнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	балл
+3	коряс	ADP	AdpType=Post	по; в направлении
+4	содави	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	знать
+5	,	PUNCT	_	_
+6	кие	PRON	Case=Nom|Number=Sing	кто
+7	кармай	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	начать
+8	тонафнема	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+9	тя	PRON	Case=Nom|Number=Sing	это
+10	или	CONJ	Rus=Yes	или
+11	тона	PRON	Case=Nom|Number=Sing	тот
+12	факультетса	NOUN	Case=Ine|Number=Sing|Rus=Yes	факультет
+13	.	PUNCT	_	_
+------------
+Университетса экзамен максыхть аньцек техникумонь и училищань шумордайхне.
+
+1	Университетса	NOUN	Case=Ine|Number=Sing|Rus=Yes	университет
+2	экзамен	NOUN	Case=Nom|Number=Sing|Rus=Yes	экзамен
+3	максыхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr	дать
+4	аньцек	ADV		только; только что
+5	техникумонь	NOUN	Case=Gen|Number=Sing|Rus=Yes	техникум
+6	и	CONJ	Rus=Yes	и
+7	училищань	NOUN	Case=Gen|Number=Sing|Rus=Yes	училище
+8	шумордайхне	VERB	Case=Nom|Definite=Def|Number=Plur|VerbForm=Part	_
+9	.	PUNCT	_	_
+10	\n	PUNCT	_	_
+------------
+Тядде, кода и фалу, студенттне примавихть тонафнема бюджетнай и коммерческяй основаса.
+
+1	Тядде	ADV		в этом году
+2	,	PUNCT	_	_
+3	кода	ADV	AdvType=Pron	как
+4	и	CONJ	Rus=Yes	и
+5	фалу	ADV		всегда, постоянно
+6	,	PUNCT	_	_
+7	студенттне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	студент
+8	примавихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr|Voice=Pass	принять
+9	тонафнема	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+10	бюджетнай	ADJ	Rus=Yes	бюджетный
+11	и	CONJ	Rus=Yes	и
+12	коммерческяй	ADJ	Rus=Yes	коммерческий
+13	основаса	NOUN	Case=Ine|Number=Sing|Rus=Yes	основа
+14	.	PUNCT	_	_
+15	\n	PUNCT	_	_
+------------
+—Уликс специальносттнень еткста конатнень сяда сидеста кочксесазь выпускникне?
+
+1	—	PUNCT	_	_
+2	Уликс	ADJ		имеющийся
+3	специальносттнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	специальность
+4	еткста	ADP	AdpType=Post	от
+5	конатнень	PRON	Case=Gen|Definite=Def|Number=Plur	который; какой
+6	сяда	PART		самый
+7	сидеста	ADV		часто
+8	кочксесазь	X	_	_
+9	выпускникне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	выпускник
+10	?	PUNCT	_	_
+11	\n	PUNCT	_	_
+------------
+—Эряви азомс, вешфкс ули сембонди.
+1	—	PUNCT	_	_
+2	Эряви	AUX		нужно, надо
+3	азомс	VERB	Transitivity=Tr|VerbForm=Inf	сказать
+4	,	PUNCT	_	_
+5	вешфкс	VERB	Case=Tra|Number=Sing|PtcpType=Res|Transitivity=Tr|VerbForm=Part	найти
+6	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+7	сембонди	PRON	Case=Dat|Number=Sing	всё
+8	.	PUNCT	_	_
+------------
+Кода няевсь мелянь приемнай кампаниянь итокнень коряс, конкурс ули сембе факультеттненди.
+
+1	Кода	ADV	AdvType=Pron	как
+2	няевсь	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr|Voice=Pass	видеть
+3	мелянь	ADJ		прошлогодний
+4	приемнай	ADJ	Rus=Yes	приёмный
+5	кампаниянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	кампания
+6	итокнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	итог
+7	коряс	ADP	AdpType=Post	по; в направлении
+8	,	PUNCT	_	_
+9	конкурс	NOUN	Case=Nom|Number=Sing|Rus=Yes	конкурс
+10	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+11	сембе	PRON	Case=Nom|Number=Sing	всё
+12	факультеттненди	NOUN	Case=Dat|Definite=Def|Number=Plur|Rus=Yes	факультет
+13	.	PUNCT	_	_
+14	\n	PUNCT	_	_
+------------
+Кода и сяда ингольдень кизотнень, ашезь кире юридическяй и экономическяй факультету поступайхнень лувкссна.
+1	Кода	ADV	AdvType=Pron	как
+2	и	CONJ	Rus=Yes	и
+3	сяда	PART		самый
+4	ингольдень	ADJ		прежний, бывший; передний
+5	кизотнень	NOUN	Case=Gen|Definite=Def|Number=Plur	лето; год
+6	,	PUNCT	_	_
+7	ашезь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3	не, нет
+8	кире	VERB	Connegative=Yes|Transitivity=Intr	сократиться
+9	юридическяй	ADJ	Rus=Yes	юридический
+10	и	CONJ	Rus=Yes	и
+11	экономическяй	ADJ	Rus=Yes	экономический
+12	факультету	NOUN	Case=Lat|Number=Sing|Rus=Yes	факультет
+13	поступайхнень	VERB	Case=Gen|Definite=Def|Number=Plur|VerbForm=Part	_
+14	лувкссна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	количество, число
+15	.	PUNCT	_	_
+------------
+Мекольдень пингть од ломаттне кармасть шарфнема сяда оцю мяль инженернай специальносттненди.
+1	Мекольдень	ADJ		последний
+2	пингть	NOUN	Case=Gen|Definite=Def|Number=Sing	время
+3	од	ADJ		молодой, новый
+4	ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+5	кармасть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Transitivity=Intr	начать
+6	шарфнема	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	кружиться, повернуться, перевернуться
+7	сяда	PART		самый
+8	оцю	ADJ		бошьшой; главный; старший
+9	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+10	инженернай	ADJ	Rus=Yes	инженерный
+11	специальносттненди	NOUN	Case=Dat|Definite=Def|Number=Plur|Rus=Yes	специальность
+12	.	PUNCT	_	_
+------------
+И тя аф стак.
+1	И	CONJ	Rus=Yes	и
+2	тя	PRON	Case=Nom|Number=Sing	это
+3	аф	AUX	Polarity=Neg	не
+4	стак	ADV		просто так; так же; даром
+5	.	PUNCT	_	_
+------------
+Тяниень од ломаттне, койсон, арьсихть аф аньцек тонафнемать квалма.
+1	Тяниень	ADJ		теперешний
+2	од	ADJ		молодой, новый
+3	ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+4	,	PUNCT	_	_
+5	койсон	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=1	обычай; привычка
+6	,	PUNCT	_	_
+7	арьсихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr	думать
+8	аф	AUX	Polarity=Neg	не
+9	аньцек	ADV		только; только что
+10	тонафнемать	VERB	Case=Gen|Caus=Yes|Definite=Def|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+11	квалма	ADP	AdpType=Post	по, вдоль; о
+12	.	PUNCT	_	_
+------------
+Васендакиге синь варжакснихть инголи—лац-ряц арьсихть, муви или аф специальностьс коре работа.
+1	Васендакиге	ADV		раньше, в первую очередь
+2	синь	PRON	Case=Nom|Number=Plur|Person=3	они
+3	варжакснихть	X	_	_
+4	инголи—лац	X	_	_
+5	-	PUNCT	_	_
+6	ряц	ADV	Rus=Yes	наряду
+7	арьсихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr	думать
+8	,	PUNCT	_	_
+9	муви	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	найти
+10	или	CONJ	Rus=Yes	или
+11	аф	AUX	Polarity=Neg	не
+12	специальностьс	NOUN	Case=Ill|Number=Sing|Rus=Yes	специальность
+13	коре	ADP	AdpType=Post	по
+14	работа	NOUN	Case=Nom|Number=Sing|Rus=Yes	работа
+15	.	PUNCT	_	_
+##инголи - лац-ряц
+------------
+Эряфсь моли инголи, экономикась вииякшни и анай тевонь содай специалистт.
+
+1	Эряфсь	NOUN	Case=Nom|Definite=Def|Number=Sing	жизнь
+2	моли	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	идти
+3	инголи	ADV		вперёд; раньше; сначала
+4	,	PUNCT	_	_
+5	экономикась	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	экономика
+6	вииякшни	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	усилиться
+7	и	CONJ	Rus=Yes	и
+8	анай	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr	просить
+9	тевонь	NOUN	Case=Gen|Number=Sing	дело
+10	содай	VERB	Transitivity=Tr|VerbForm=Part	знать
+11	специалистт	NOUN	Animacy=Hum|Case=Nom|Number=Plur|Rus=Yes	специалист
+12	.	PUNCT	_	_
+13	\n	PUNCT	_	_
+------------
+Кеняртьфти, мес велень стирьхнень-цератнень еткста аф кржась кочксесазь аграрнай институтть, стаки касонды конкурссь электроннай техникань и светотехническяй факультетса, архитектурно-строительнайса, ламолготкшни механикань и энергетикань институтса тонафнихнень лувкссна.
+
+1	Кеняртьфти	VERB	Caus=Yes|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	обрадоваться
+2	,	PUNCT	_	_
+3	мес	ADV	AdvType=Pron	почему
+4	велень	ADJ		деревенский, сельский
+5	стирьхнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur	девушка; дочь
+6	-	PUNCT	_	_
+7	цератнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur	парень, мальчик; сын
+8	еткста	ADP	AdpType=Post	от
+9	аф	AUX	Polarity=Neg	не
+10	кржась	NOUN	Case=Nom|Definite=Def|Number=Sing	самое малое
+11	кочксесазь	X	_	_
+12	аграрнай	ADJ	Rus=Yes	аграрный, земельный
+13	институтть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	институт
+14	,	PUNCT	_	_
+15	стаки	ADV		так и
+16	касонды	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	расти, вырасти
+17	конкурссь	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	конкурс
+18	электроннай	ADJ	Rus=Yes	электронный
+19	техникань	NOUN	Case=Gen|Number=Sing|Rus=Yes	техника
+20	и	CONJ	Rus=Yes	и
+21	светотехническяй	ADJ	Rus=Yes	светотехнический
+22	факультетса	NOUN	Case=Ine|Number=Sing|Rus=Yes	факультет
+23	,	PUNCT	_	_
+24	архитектурно-строительнайса	ADJ	Case=Ine|Number=Sing|Rus=Yes	архитектурно-строительный
+25	,	PUNCT	_	_
+26	ламолготкшни	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	умножиться, увеличиться
+27	механикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	механика
+28	и	CONJ	Rus=Yes	и
+29	энергетикань	NOUN	Case=Gen|Number=Sing|Rus=Yes	энергетика
+30	институтса	NOUN	Case=Ine|Number=Sing|Rus=Yes	институт
+31	тонафнихнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur	ученик
+32	лувкссна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	количество, число
+33	.	PUNCT	_	_
+34	\n	PUNCT	_	_
+##механикань, энергетикань ADJ?
+------------
+—А кодамовок од специальностть тядде эвондайхть университетса?
+
+1	—	PUNCT	_	_
+2	А	CONJ	Rus=Yes	а
+3	кодамовок	PRON	Case=Nom|Number=Sing	какой-нибудь
+4	од	ADJ		молодой, новый
+5	специальностть	NOUN	Case=Nom|Number=Plur|Rus=Yes	специальность
+6	тядде	ADV		в этом году
+7	эвондайхть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	появиться
+8	университетса	NOUN	Case=Ine|Number=Sing|Rus=Yes	университет
+9	?	PUNCT	_	_
+10	\n	PUNCT	_	_
+------------
+—Тяфтамот тя кизоть аш.
+
+1	—	PUNCT	_	_
+2	Тяфтамот	X	_	_
+3	тя	PRON	Case=Nom|Number=Sing	это
+4	кизоть	NOUN	Case=Gen|Definite=Def|Number=Sing	лето; год
+5	аш	AUX		нет
+6	.	PUNCT	_	_
+7	\n	PUNCT	_	_
+------------
+—Павел Федорович, а кода ащихть тефне национальнай кадрань анокламать мархта?
+1	—	PUNCT	_	_
+2	Павел	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Павел
+3	Федорович	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Фёдорович
+4	,	PUNCT	_	_
+5	а	CONJ	Rus=Yes	а
+6	кода	ADV	AdvType=Pron	как
+7	ащихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть, находиться; сидеть
+8	тефне	NOUN	Case=Nom|Definite=Def|Number=Plur	дело
+9	национальнай	ADJ	Rus=Yes	национальный
+10	кадрань	NOUN	Case=Gen|Number=Sing|Rus=Yes	кадр
+11	анокламать	VERB	Case=Gen|Definite=Def|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	готовить, готовиться
+12	мархта	ADP	AdpType=Post	с
+13	?	PUNCT	_	_
+------------
+Ламотне азонкшнихть мяль поступамс национальнай культурань институту или филологическяй факультету?
+
+1	Ламотне	ADJ	Case=Nom|Definite=Def|Number=Plur	многий
+2	азонкшнихть	X	_	_
+3	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+4	поступамс	VERB	Rus=Yes|Transitivity=Intr|VerbForm=Inf	поступить
+5	национальнай	ADJ	Rus=Yes	национальный
+6	культурань	NOUN	Case=Gen|Number=Sing|Rus=Yes	культура
+7	институту	NOUN	Case=Lat|Number=Sing|Rus=Yes	институт
+8	или	CONJ	Rus=Yes	или
+9	филологическяй	ADJ	Rus=Yes	филологический
+10	факультету	NOUN	Case=Lat|Number=Sing|Rus=Yes	факультет
+11	?	PUNCT	_	_
+12	\n	PUNCT	_	_
+------------
+—Национальнайти республикасонк мекольдень пингть шарфневи башка оцю мяль.
+1	—	PUNCT	_	_
+2	Национальнайти	ADJ	Case=Dat|Definite=Def|Number=Sing|Rus=Yes	национальный
+3	республикасонк	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	республика
+4	мекольдень	ADJ		последний
+5	пингть	NOUN	Case=Gen|Definite=Def|Number=Sing	время
+6	шарфневи	VERB	Caus=Yes|Conjug=NonObj|Mult=Yes|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr|Voice=Pass	кружиться, повернуться, перевернуться
+7	башка	ADV		отдельно, порознь
+8	оцю	ADJ		бошьшой; главный; старший
+9	мяль	NOUN	Case=Nom|Number=Sing	желание, охота
+10	.	PUNCT	_	_
+------------
+Тянкса национальнай кадрань анокламаське ащи васенце вастса.
+1	Тянкса	ADV	AdvType=Pron	поэтому
+2	национальнай	ADJ	Rus=Yes	национальный
+3	кадрань	NOUN	Case=Gen|Number=Sing|Rus=Yes	кадр
+4	анокламаське	VERB	Case=Nom|Clitic=Add|Definite=Def|Number=Sing|Transitivity=Tr|VerbForm=Vnoun	готовить, готовиться
+5	ащи	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть, находиться; сидеть
+6	васенце	NUM	NumType=Ord	первый
+7	вастса	NOUN	Case=Ine|Number=Sing	место
+8	.	PUNCT	_	_
+------------
+Пяк пара, што филологическяй факультету и национальнай культурань институту тонафнема сашендыхть аф аньцек Мордовиянь од ломаттне, но и диаспорань выпускникне.
+1	Пяк	ADV		очень, сильно
+2	пара	ADJ		хороший, добрый
+3	,	PUNCT	_	_
+4	што	CONJ	Rus=Yes	что
+5	филологическяй	ADJ	Rus=Yes	филологический
+6	факультету	NOUN	Case=Lat|Number=Sing|Rus=Yes	факультет
+7	и	CONJ	Rus=Yes	и
+8	национальнай	ADJ	Rus=Yes	национальный
+9	культурань	NOUN	Case=Gen|Number=Sing|Rus=Yes	культура
+10	институту	NOUN	Case=Lat|Number=Sing|Rus=Yes	институт
+11	тонафнема	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+12	сашендыхть	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	прийти
+13	аф	AUX	Polarity=Neg	не
+14	аньцек	ADV		только; только что
+15	Мордовиянь	PROPN	Case=Gen|Number=Sing|PropnType=TopN	Мордовия
+16	од	ADJ		молодой, новый
+17	ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+18	,	PUNCT	_	_
+19	но	CONJ	Rus=Yes	но
+20	и	CONJ	Rus=Yes	и
+21	диаспорань	NOUN	Case=Gen|Number=Sing|Rus=Yes	диаспора
+22	выпускникне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	выпускник
+23	.	PUNCT	_	_
+------------
+Мордовскяй госуниверситетса улихть сембе условиятне, штоба лац-ряц тонафнемс родной кяльть, культураньконь, парста содамс мокшэрзянь крайть историянц, мезсь лезды ванфтомс-эреклафтомс коеньконь-обуцяньконь.
+1	Мордовскяй	ADJ	Rus=Yes	мордовский
+2	госуниверситетса	NOUN	Case=Ine|Number=Sing|Rus=Yes	госуниверситет
+3	улихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+4	сембе	PRON	Case=Nom|Number=Sing	всё
+5	условиятне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	условие
+6	,	PUNCT	_	_
+7	штоба	CONJ	Rus=Yes	чтобы
+8	лац-ряц	ADV	Rus=Yes	по-настоящему, как следует
+9	тонафнемс	VERB	Caus=Yes|Mult=Yes|Transitivity=Intr|VerbForm=Inf	выучить; привыкнуть
+10	родной	ADJ	Rus=Yes	родной
+11	кяльть	NOUN	Case=Gen|Definite=Def|Number=Sing	язык
+12	,	PUNCT	_	_
+13	культураньконь	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	культура
+14	,	PUNCT	_	_
+15	парста	ADV		хорошо, замечательно
+16	содамс	VERB	Transitivity=Tr|VerbForm=Inf	знать
+17	мокшэрзянь	ADJ		мордовский
+18	крайть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	край, страна
+19	историянц	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Rus=Yes	история
+20	,	PUNCT	_	_
+21	мезсь	PRON	Case=Nom|Definite=Def|Number=Sing	что
+22	лезды	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	помочь
+23	ванфтомс	VERB	Caus=Yes|Transitivity=Tr|VerbForm=Inf	смотреть
+24	-	PUNCT	_	_
+25	эреклафтомс	VERB	Caus=Yes|Transitivity=Intr|VerbForm=Inf	ожить
+26	коеньконь	X	_	_
+27	-	PUNCT	_	_
+28	обуцяньконь	NOUN	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=1|Rus=Yes	обычай
+29	.	PUNCT	_	_
+------------
+Тяда башка, филологическяй факультету поступайхненди максови возможность тонафнемс финно-угорскяй кяльхнень.
+
+1	Тяда	PRON	Case=Abl|Number=Sing	это
+2	башка	ADP	AdpType=Post	кроме, помимо
+3	,	PUNCT	_	_
+4	филологическяй	ADJ	Rus=Yes	филологический
+5	факультету	NOUN	Case=Lat|Number=Sing|Rus=Yes	факультет
+6	поступайхненди	X	_	_
+7	максови	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	дать
+8	возможность	NOUN	Case=Nom|Number=Sing|Rus=Yes	возможность
+9	тонафнемс	VERB	Caus=Yes|Mult=Yes|Transitivity=Intr|VerbForm=Inf	выучить; привыкнуть
+10	финно-угорскяй	ADJ	Rus=Yes	финно-угорский
+11	кяльхнень	NOUN	Case=Gen|Definite=Def|Number=Plur	язык
+12	.	PUNCT	_	_
+13	\n	PUNCT	_	_
+------------
+—Абитуриенттнень ёткста кинь улихть университету поступамс льготанза?
+
+1	—	PUNCT	_	_
+2	Абитуриенттнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	абитуриент
+3	ёткста	ADP	AdpType=Post	от
+4	кинь	PRON	Case=Gen|Number=Sing	кто
+5	улихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+6	университету	NOUN	Case=Lat|Number=Sing|Rus=Yes	университет
+7	поступамс	VERB	Rus=Yes|Transitivity=Intr|VerbForm=Inf	поступить
+8	льготанза	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3|Rus=Yes	льгота
+9	?	PUNCT	_	_
+10	\n	PUNCT	_	_
+------------
+—Иттне-инвалиттне, тядянь-алянь лезксфтома лятфне, сиротатне, од ломаттне, кинь фкя родителец и сон I-це группань инвалид сявовихть университету конкурсфтома (кда лац макссазь экзаметтнень).
+1	—	PUNCT	_	_
+2	Иттне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	ребёнок
+3	-	PUNCT	_	_
+4	инвалиттне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	инвалид
+5	,	PUNCT	_	_
+6	тядянь-алянь	ADJ		родительский
+7	лезксфтома	NOUN	Case=Abe|Number=Sing	помощь
+8	лятфне	X	_	_
+9	,	PUNCT	_	_
+10	сиротатне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	сирота
+11	,	PUNCT	_	_
+12	од	ADJ		молодой, новый
+13	ломаттне	NOUN	Case=Nom|Definite=Def|Number=Plur	человек
+14	,	PUNCT	_	_
+15	кинь	PRON	Case=Gen|Number=Sing	кто
+16	фкя	NUM		один
+17	родителец	X	_	_
+18	и	CONJ	Rus=Yes	и
+19	сон	PRON	Case=Nom|Number=Sing|Person=3	он, она, оно
+20	I	X	_	_
+21	-	PUNCT	_	_
+22	це	PART		на
+23	группань	NOUN	Case=Gen|Number=Sing|Rus=Yes	группа
+24	инвалид	NOUN	Animacy=Hum|Case=Nom|Number=Sing|Rus=Yes	инвалид
+25	сявовихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	взять
+26	университету	NOUN	Case=Lat|Number=Sing|Rus=Yes	университет
+27	конкурсфтома	NOUN	Case=Abe|Number=Sing|Rus=Yes	конкурс
+28	(	PUNCT	_	_
+29	кда	CONJ		если
+30	лац	ADV	Rus=Yes	хорошо; правильно
+31	макссазь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	дать
+32	экзаметтнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	экзамен
+33	).	PUNCT	_	_
+------------
+Тяда башка, льготасна улихть боевой действиянь участникнень, кит мрдасть тоста инвалидкс.
+1	Тяда	PRON	Case=Abl|Number=Sing	это
+2	башка	ADP	AdpType=Post	кроме, помимо
+3	,	PUNCT	_	_
+4	льготасна	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3|Rus=Yes	льгота
+5	улихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+6	боевой	ADJ	Rus=Yes	боевой
+7	действиянь	NOUN	Case=Gen|Number=Sing|Rus=Yes	действие
+8	участникнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	участник
+9	,	PUNCT	_	_
+10	кит	PRON	Case=Nom|Number=Plur	кто
+11	мрдасть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Transitivity=Intr	вернуться
+12	тоста	ADV	AdvType=Pron	оттуда, из того места
+13	инвалидкс	NOUN	Animacy=Hum|Case=Tra|Number=Sing|Rus=Yes	инвалид
+14	.	PUNCT	_	_
+------------
+Синь примавихть тонафнема «кафтта» башка оценкаса.
+
+1	Синь	PRON	Case=Nom|Number=Plur|Person=3	они
+2	примавихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr|Voice=Pass	принять
+3	тонафнема	VERB	Case=Nom|Caus=Yes|Mult=Yes|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	выучить; привыкнуть
+4	«	PUNCT	_	_
+5	кафтта	NUM	Case=Abl|Number=Sing	два
+6	»	PUNCT	_	_
+7	башка	ADP	AdpType=Post	кроме, помимо
+8	оценкаса	NOUN	Case=Ine|Number=Sing|Rus=Yes	оценка
+9	.	PUNCT	_	_
+10	\n	PUNCT	_	_
+------------
+—Абитуриенттнень еткста аф кржась шумордазь школать золотань или сиянь медальса.
+1	—	PUNCT	_	_
+2	Абитуриенттнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	абитуриент
+3	еткста	ADP	AdpType=Post	от
+4	аф	AUX	Polarity=Neg	не
+5	кржась	NOUN	Case=Nom|Definite=Def|Number=Sing	самое малое
+6	шумордазь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	окончить
+7	школать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	школа
+8	золотань	ADJ	Rus=Yes	золотой
+9	или	CONJ	Rus=Yes	или
+10	сиянь	ADJ		серебряный
+11	медальса	NOUN	Case=Ine|Number=Sing|Rus=Yes	медаль
+12	.	PUNCT	_	_
+------------
+Кодама условияса синь примавихть университету?
+
+1	Кодама	PRON	Case=Nom|Number=Sing	какой
+2	условияса	NOUN	Case=Ine|Number=Sing|Rus=Yes	условие
+3	синь	PRON	Case=Nom|Number=Plur|Person=3	они
+4	примавихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr|Voice=Pass	принять
+5	университету	NOUN	Case=Lat|Number=Sing|Rus=Yes	университет
+6	?	PUNCT	_	_
+7	\n	PUNCT	_	_
+------------
+—Кда инголи теест мярьгондевсь максомс аньцек фкя профилирующай экзамен («вете» оценкас), то тяни теест савихть максомс сембе эрявикс предметтнень коряс экзаметтне.
+1	—	PUNCT	_	_
+2	Кда	CONJ		если
+3	инголи	ADV		вперёд; раньше; сначала
+4	теест	PRON	Case=Dat|Number=Plur|Person=3	они
+5	мярьгондевсь	VERB	Aspect=Iter|Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Transitivity=Tr|Voice=Pass	сказать
+6	максомс	VERB	Transitivity=Tr|VerbForm=Inf	дать
+7	аньцек	ADV		только; только что
+8	фкя	NUM		один
+9	профилирующай	ADJ	Rus=Yes	_
+10	экзамен	NOUN	Case=Nom|Number=Sing|Rus=Yes	экзамен
+11	(«	PUNCT	_	_
+12	вете	NUM		пять
+13	»	PUNCT	_	_
+14	оценкас	NOUN	Case=Ill|Number=Sing|Rus=Yes	оценка
+15	),	PUNCT	_	_
+16	то	CONJ	Rus=Yes	то
+17	тяни	ADV		сейчас
+18	теест	PRON	Case=Dat|Number=Plur|Person=3	они
+19	савихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr|Voice=Pass	прийти
+20	максомс	VERB	Transitivity=Tr|VerbForm=Inf	дать
+21	сембе	PRON	Case=Nom|Number=Sing	всё
+22	эрявикс	ADJ		нужный, необходимый
+23	предметтнень	NOUN	Case=Gen|Definite=Def|Number=Plur|Rus=Yes	предмет
+24	коряс	ADP	AdpType=Post	по; в направлении
+25	экзаметтне	NOUN	Case=Nom|Definite=Def|Number=Plur|Rus=Yes	экзамен
+26	.	PUNCT	_	_
+##савихть AUX Plur?
+------------
+Но, кда конкурссь ули оцю, то васенцекс, конешна, примавихть медалисттне.
+1	Но	CONJ	Rus=Yes	но
+2	,	PUNCT	_	_
+3	кда	CONJ		если
+4	конкурссь	NOUN	Case=Nom|Definite=Def|Number=Sing|Rus=Yes	конкурс
+5	ули	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть
+6	оцю	ADJ		бошьшой; главный; старший
+7	,	PUNCT	_	_
+8	то	CONJ	Rus=Yes	то
+9	васенцекс	NUM	Case=Tra|NumType=Ord|Number=Sing	первый
+10	,	PUNCT	_	_
+11	конешна	ADV	AdvType=Parenth|Rus=Yes	конечно
+12	,	PUNCT	_	_
+13	примавихть	VERB	Conjug=NonObj|Number[subj]=Plur|Person[subj]=3|Rus=Yes|Tense=Pres|Transitivity=Tr|Voice=Pass	принять
+14	медалисттне	NOUN	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur|Rus=Yes	медалист
+15	.	PUNCT	_	_
+------------
+Синь еткозост сувсихть и сят, кит якстерь дипломса шумордазь училищать или техникумть.
+
+1	Синь	PRON	Case=Gen|Number=Plur|Person=3	они
+2	еткозост	X	_	_
+3	сувсихть	VERB	Conjug=NonObj|Mult=Yes|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Intr	входить
+4	и	CONJ	Rus=Yes	и
+5	сят	PRON	Case=Nom|Number=Plur	тот, та, то
+6	,	PUNCT	_	_
+7	кит	PRON	Case=Nom|Number=Plur	кто
+8	якстерь	ADJ		красный
+9	дипломса	NOUN	Case=Ine|Number=Sing|Rus=Yes	диплом
+10	шумордазь	VERB	Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Transitivity=Tr	окончить
+11	училищать	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	училище
+12	или	CONJ	Rus=Yes	или
+13	техникумть	NOUN	Case=Gen|Definite=Def|Number=Sing|Rus=Yes	техникум
+14	.	PUNCT	_	_
+15	\n	PUNCT	_	_
+------------
+—Павел Федорович, велеста или диаспораста саф студенттнень инголе оржаста ащи эряма васт- тнень мархта сотф кизефкссь.
+1	—	PUNCT	_	_
+2	Павел	PROPN	Case=Nom|Number=Sing|PropnType=PersN	Павел
+3	Федорович	PROPN	Case=Nom|Number=Sing|PropnType=PatrN	Фёдорович
+4	,	PUNCT	_	_
+5	велеста	NOUN	Case=Ela|Number=Sing	село, селение
+6	или	CONJ	Rus=Yes	или
+7	диаспораста	NOUN	Case=Ela|Number=Sing|Rus=Yes	диаспора
+8	саф	VERB	PtcpType=Res|Transitivity=Intr|VerbForm=Part	прийти
+9	студенттнень	NOUN	Animacy=Hum|Case=Gen|Definite=Def|Number=Plur|Rus=Yes	студент
+10	инголе	ADP	AdpType=Post	впереди
+11	оржаста	ADV		остро
+12	ащи	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Intr	быть, находиться; сидеть
+13	эряма	VERB	Case=Nom|Number=Sing|Transitivity=Intr|VerbForm=Vnoun	жить
+	
+14	васт	(1)	VERB	Connegative=Yes|Transitivity=Intr	встретиться, столкнуться
+			(2)	NOUN	Animacy=Anim|Case=Nom|Number=Plur	тёлка
+	
+15	-	PUNCT	_	_
+16	тнень	X	_	_
+17	мархта	ADP	AdpType=Post	с
+18	сотф	VERB	PtcpType=Res|Transitivity=Tr|VerbForm=Part	завязать
+19	кизефкссь	NOUN	Case=Nom|Definite=Def|Number=Sing	вопрос
+20	.	PUNCT	_	_
+##васттнень
+------------
+Мезе азолеть тянь коряс?
+
+1	Мезе	PRON	Case=Nom|Number=Sing	что
+2	азолеть	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=2|Tense=Prt2|Transitivity=Tr	сказать
+3	тянь	PRON	Case=Gen|Number=Sing	это
+4	коряс	ADP	AdpType=Post	по; в направлении
+5	?	PUNCT	_	_
+6	\n	PUNCT	_	_
+------------
+—Университетса сембе тонафнихненди макссевихть комнатат общежитияса.
+1	—	PUNCT	_	_
+2	Университетса	NOUN	Case=Ine|Number=Sing|Rus=Yes	университет
+3	сембе	PRON	Case=Nom|Number=Sing	всё
+4	тонафнихненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	ученик
+5	макссевихть	VERB	Conjug=NonObj|Mult=Yes|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	дать
+6	комнатат	X	_	_
+7	общежитияса	NOUN	Case=Ine|Number=Sing|Rus=Yes	общежитие
+8	.	PUNCT	_	_
+------------
+Маластонь пингть арьсеви строямс башка общежития диаспораста саф студенттненди.
+
+1	Маластонь	ADJ		близкий
+2	пингть	NOUN	Case=Gen|Definite=Def|Number=Sing	время
+3	арьсеви	VERB	Conjug=NonObj|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Transitivity=Tr|Voice=Pass	думать
+4	строямс	VERB	Rus=Yes|Transitivity=Tr|VerbForm=Inf	строить
+5	башка	ADJ		отдельный, особенный
+6	общежития	NOUN	Case=Nom|Number=Sing|Rus=Yes	общежитие
+7	диаспораста	NOUN	Case=Ela|Number=Sing|Rus=Yes	диаспора
+8	саф	VERB	PtcpType=Res|Transitivity=Intr|VerbForm=Part	прийти
+9	студенттненди	NOUN	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur|Rus=Yes	студент
+10	.	PUNCT	_	_
+11	\n	PUNCT	_	_
+------------
+—Спасиба.
+
+1	—	PUNCT	_	_
+2	Спасиба	PART	Rus=Yes	спасибо
+3	.	PUNCT	_	_
+4	\n	PUNCT	_	_
+------------
+О.КОЛЕДИНОВА.
+1	О.КОЛЕДИНОВА	X	_	_
+2	.	PUNCT	_	_
+------------
